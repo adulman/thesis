@@ -1,0 +1,78 @@
+* { margin: 0, padding: 0 }
+
+.menu {
+	background-color: #45c3d0;
+	padding-top: none;
+	margin-top: 0px;
+	width: 100%;
+	height: 40px;
+}
+
+.header {
+	background-color: #fcb233;
+	height: 100px;
+	width: 100%;
+}
+
+h1 {
+	font-size: 72px;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.grid {
+	width: 200px;
+	height: 200px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 48px;
+}
+
+li {
+	color: #f15b61;
+	font-size: 20px;
+}
+
+h3 {
+	color: #fcb233;
+	font-size: 30px;
+}
+
+p {
+	font-size: 20px;
+	line-height: 31px;
+}
+
+.itinerary {
+	width: 50%;
+	padding-left: 300px;
+}
+
+.instabanner {
+	background-color: #fcb233;
+	width: 60%;
+	vertical-align: center;
+	text-align: center;
+}
+
+h4 {
+	color: white;
+	font-size: 50px;
+}
+
+.instabannerimg {
+	height: 400px;
+	width: 400px;
+}
