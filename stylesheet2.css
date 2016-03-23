@@ -1,5 +1,8 @@
 * { margin: 0, padding: 0 }
 
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
 .menu {
 	background-color: #45c3d0;
 	padding-top: none;
@@ -8,10 +11,34 @@
 	height: 40px;
 }
 
+.menubar {
+	background-color: #45c3d0;
+}
 .header {
-	background-color: #fcb233;
-	height: 100px;
+	background-color: white;
+	color: #fcb233;
+	height: 300px;
 	width: 100%;
+	padding-top: 70px;
+	text-align: center;
+}
+
+.map {
+	text-align: center;
+	width: 100%;
+}
+
+.iframe {
+	float: middle;
+	display: block;
+	width: 80%;
+}
+
+.footer {
+	background-color: #fcb233;
+	height: 50px;
+	width: 100%;
+	text-align: center;
 }
 
 h1 {
@@ -20,6 +47,7 @@ h1 {
 	padding-top: 10px;
 	margin-top: 0px;
 	margin-bottom: 0px;
+	line-height: 30px;
 }
 
 .grid {
@@ -38,11 +66,21 @@ h1 {
 
 h2 {
 	font-size: 48px;
+	margin-left: 150px;
+}
+
+h5 {
+	font-size: 48px;
+	line-height: 0px;
 }
 
 li {
 	color: #f15b61;
 	font-size: 20px;
+}
+
+ul {
+	padding-left: 300px;
 }
 
 h3 {
@@ -62,17 +100,115 @@ p {
 
 .instabanner {
 	background-color: #fcb233;
-	width: 60%;
+	width: 80%;
+	text-align: left;
+	margin-left: 150px;
+	height: 220px;
+	z-index: 0;
+	position: relative;
+	margin-top: 160px;
+	margin-bottom: 180px;
+}
+
+.instabannerpink {
+	background-color: #f15b61;
+	width: 80%;
 	vertical-align: center;
-	text-align: center;
+	text-align: left;
+	margin-left: 150px;
+	height: 220px;
+	z-index: 0;
+	position: relative;
+	margin-top: 160px;
+	margin-bottom: 180px;
+}
+
+.instabannerblue {
+	background-color: #45c3d0;
+	width: 80%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 150px;
+	height: 220px;
+	z-index: 0;
+	position: relative;
+	margin-top: 160px;
+	margin-bottom: 180px;
 }
 
 h4 {
 	color: white;
-	font-size: 50px;
+	font-size: 45px;
+	line-height: 60px;
+	z-index: 1;
+	position: relative;
+	margin-left: 550px;
+	top: -40px;
+	vertical-align: middle;
+	display: inline-block;
 }
 
 .instabannerimg {
 	height: 400px;
 	width: 400px;
+	left: 100px;
+	z-index: 2;
+	position: absolute;
+	top:-90px;
+
+}
+ul#rightmenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #45c3d0;
+    display: inline-block;
+    float:right;
+  	font
+}
+
+ul#rightmenu li{
+    float: right;
+
+}
+
+ul#rightmenu li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul#rightmenu li a:hover{
+    color: black;
+}
+
+ul#leftmenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #45c3d0;
+    display: inline-block;
+
+
+}
+
+ul#leftmenu li{
+    float: left;
+     height: 100%;
+}
+
+ul#leftmenu li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul#leftmenu li a:hover{
+    color: black;
 }
