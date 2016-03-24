@@ -143,9 +143,9 @@ p {
 
 table {
 	padding-left: 220px;
-	width: 50%;
-	font-size: 20px;
-	line-height: 28px;
+	width: 625px;
+	font-size: 25px;
+	line-height: 35px;
 }
 
 .bluetip {
@@ -155,7 +155,7 @@ table {
 
 h4 {
 	color: white;
-	font-size: 45px;
+	font-size: 48px;
 	line-height: 60px;
 	z-index: 1;
 	position: relative;
