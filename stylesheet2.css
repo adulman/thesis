@@ -25,6 +25,11 @@ body {
 	text-align: center;
 }
 
+.hometop {
+	padding-top: 80px;
+	text-align: center;
+}
+
 .map {
 	text-align: center;
 	width: 100%;
@@ -51,7 +56,7 @@ body {
 
 .footer {
 	background-color: #fcb233;
-	height: 50px;
+	height: 40px;
 	width: 100%;
 	text-align: center;
 }
