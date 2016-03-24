@@ -36,6 +36,19 @@ body {
 	width: 80%;
 }
 
+.wtfisthis {
+	padding-top: 80px;
+	text-align: center;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.wtfisthis p{
+	margin-right: 200px;
+	margin-left: 200px;
+	text-align: 
+}
+
 .footer {
 	background-color: #fcb233;
 	height: 50px;
@@ -72,7 +85,7 @@ h2 {
 }
 
 h5 {
-	font-size: 48px;
+	font-size: 30px;
 	line-height: 0px;
 }
 
@@ -159,6 +172,24 @@ h4 {
 	padding-left: 525px;
 	height: 220px;
 	padding-right: 75px;
+}
+
+h6 {
+	color: white;
+	font-size: 32px;
+	line-height: 45px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 525px;
+	height: 220px;
+	padding-right: 75px;
+}
+
+.aboutcontent {
+	margin-right: 250px;
+	margin-left: 250px;
 }
 
 .instabannerimg {
