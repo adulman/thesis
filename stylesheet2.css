@@ -14,7 +14,7 @@ body {
 
 .menubar {
 	background-color: #45c3d0;
-	height: 54px;
+	height: 46px;
 }
 .header {
 	background-color: white;
@@ -191,7 +191,7 @@ ul#rightmenu li a{
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 16px;
     text-decoration: none;
 }
 
