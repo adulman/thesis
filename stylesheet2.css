@@ -13,7 +13,7 @@ body {
 }
 
 .menubar {
-	background-color: #45c3d0;
+	background-color: #ffffff;
 	height: 46px;
 }
 
@@ -94,8 +94,22 @@ h1 {
 	text-align: center;
 }
 
-.skyline {
-	padding-top: 40px;
+.newhead {
+	background-color: #fcb233;
+	padding-top: none;
+	margin-top: 0;
+	height: 200px;
+}
+
+.vectormap {
+	padding-top: 0px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.vectormap img {
+	height: 350px;
+	width: 100%;
 }
 
 h2 {
@@ -226,7 +240,7 @@ ul#rightmenu {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #45c3d0;
+    background-color: #ffffff;
     display: inline-block;
     float:right;
   	font
@@ -239,7 +253,7 @@ ul#rightmenu li{
 
 ul#rightmenu li a{
     display: inline-block;
-    color: white;
+    color: #45c3d0;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
@@ -254,7 +268,7 @@ ul#leftmenu {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #45c3d0;
+    background-color: #ffffff;
     display: inline-block;
 
 
@@ -267,7 +281,7 @@ ul#leftmenu li{
 
 ul#leftmenu li a{
     display: inline-block;
-    color: white;
+    color: #45c3d0;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
