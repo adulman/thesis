@@ -16,6 +16,12 @@ body {
 	background-color: #45c3d0;
 	height: 46px;
 }
+
+.googlesearch {
+	width: 500px;
+	background-color: #45c3d0;
+}
+
 .header {
 	background-color: white;
 	color: #fcb233;
@@ -71,8 +77,8 @@ h1 {
 }
 
 .grid {
-	width: 200px;
-	height: 200px;
+	width: 400px;
+	height: 400px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	padding-right: 10px;
@@ -90,7 +96,7 @@ h2 {
 }
 
 h5 {
-	font-size: 30px;
+	font-size: 45px;
 	line-height: 0px;
 }
 
@@ -114,10 +120,11 @@ p {
 	font-size: 20px;
 	line-height: 31px;
 	margin-top: 8px;
+	margin-right: 600px;
 }
 
 .itinerary {
-	width: 50%;
+	width: 100%;
 	padding-left: 300px;
 }
 
@@ -261,3 +268,7 @@ ul#leftmenu li a{
 ul#leftmenu li a:hover{
     color: black;
 }
+
+
+
+
