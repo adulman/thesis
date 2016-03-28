@@ -207,7 +207,7 @@ table {
 	padding-bottom: 40px;
 	display: inline-block;
 	float:left;
-	width: 50%;
+	width: 45%;
 }
 
 .basicfactssection h2 {
@@ -220,9 +220,9 @@ table {
 
 .bluetip {
 	float:right;
-	display: inline-block;
 	width: 30%;
 	text-align: left;
+	display: inline-block;
 }
 
 .bluetip h2 {
