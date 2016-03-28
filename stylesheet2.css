@@ -190,10 +190,11 @@ p {
 }
 
 table {
-	padding-left: 120px;
+	padding-left: 100px;
 	width: 625px;
 	font-size: 25px;
 	line-height: 45px;
+	padding-top: 30px;
 }
 
 .basicfactssection {
@@ -206,7 +207,7 @@ table {
 
 .basicfactssection h2 {
 	font-size: 48px;
-	margin-left: 120px;
+	margin-left: 100px;
 	padding-top: 50px;
 }
 
