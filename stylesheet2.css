@@ -48,6 +48,10 @@ body {
 	padding-bottom: 10px;
 }
 
+.hometop h5 {
+	margin-bottom: 40px;
+	margin-top: 60px;
+}
 .map {
 	text-align: center;
 	width: 100%;
