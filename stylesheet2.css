@@ -95,6 +95,8 @@ body {
 
 .menubar hr {
 	border-top: 3px solid #45c3d0;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 h1 {
