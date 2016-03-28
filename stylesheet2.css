@@ -93,6 +93,10 @@ body {
 	border-top: 3px solid #45c3d0;
 }
 
+.menubar hr {
+	border-top: 3px solid #45c3d0;
+}
+
 h1 {
 	font-size: 90px;
 	text-align: center;
