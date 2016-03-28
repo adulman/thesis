@@ -213,7 +213,7 @@ table {
 .basicfactssection h2 {
 	font-size: 48px;
 	margin-left: 80px;
-	padding-top: 50px;
+	padding-top: 20px;
 	margin-bottom: 0;
 	color: #ffffff;
 }
@@ -223,6 +223,10 @@ table {
 	display: inline-block;
 	width: 30%;
 	text-align: left;
+}
+
+.bluetip h2 {
+	margin-left: 0;
 }
 
 h4 {
