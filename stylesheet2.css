@@ -34,11 +34,17 @@ body {
 .hometop {
 	padding-top: 80px;
 	text-align: center;
+	padding-bottom: 20px;
 }
 
 .hometop h3 {
 	margin-right: 350px;
 	margin-left: 350px;
+}
+
+.hometop h1 {
+	font-size: 110px;
+	padding-bottom: 10px;
 }
 
 .map {
