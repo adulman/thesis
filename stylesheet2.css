@@ -36,6 +36,11 @@ body {
 	text-align: center;
 }
 
+.hometop h3 {
+	margin-right: 350px;
+	margin-left: 350px;
+}
+
 .map {
 	text-align: center;
 	width: 100%;
@@ -302,7 +307,7 @@ ul#rightmenu li a{
 }
 
 ul#rightmenu li a:hover{
-    color: black;
+    color: #f15b61;
 }
 
 ul#leftmenu {
@@ -330,7 +335,7 @@ ul#leftmenu li a{
 }
 
 ul#leftmenu li a:hover{
-    color: black;
+    color: #f15b61;
 }
 
 
