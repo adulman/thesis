@@ -73,10 +73,24 @@ body {
 }
 
 .footer {
-	background-color: #fcb233;
-	height: 40px;
+	height: 80px;
 	width: 100%;
 	text-align: center;
+	margin-top: 50px;
+}
+
+.footer p{
+	font-size: 16px;
+	line-height: 22px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #45c3d0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.footer hr {
+	border-top: 3px solid #45c3d0;
 }
 
 h1 {
@@ -398,5 +412,16 @@ a:link {
 	text-decoration: none;
 }
 
+a.footer: link {
+	text-decoration: none;
+	color: #45c3d0;
+}
 
+a.footer:hover {
+	text-decoration: underline;
+}
+
+a.footer:visited {
+	color: #45c3d0;
+}
 
