@@ -150,6 +150,7 @@ p {
 	padding-left: 300px;
 }
 
+
 .instabanner {
 	background-color: #fcb233;
 	width: 80%;
@@ -189,10 +190,24 @@ p {
 }
 
 table {
-	padding-left: 220px;
+	padding-left: 120px;
 	width: 625px;
 	font-size: 25px;
-	line-height: 35px;
+	line-height: 45px;
+}
+
+.basicfactssection {
+	background-color: #45c3d0;
+	margin-bottom: 100px;
+	margin-top: 100px;
+	margin-right: 140px;
+	margin-left: 140px;
+}
+
+.basicfactssection h2 {
+	font-size: 48px;
+	margin-left: 120px;
+	padding-top: 50px;
 }
 
 h4 {
