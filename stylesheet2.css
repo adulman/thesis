@@ -405,6 +405,17 @@ h6 {
 	top:-90px;
 
 }
+
+.morecities {
+	text-align: center;
+}
+
+.morecities h2 {
+	margin-left: 0px;
+	color: #f15b61;
+	margin-bottom: 10px;
+}
+
 ul#rightmenu {
     list-style-type: none;
     margin: 0;
