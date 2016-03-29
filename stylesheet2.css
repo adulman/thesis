@@ -18,8 +18,7 @@ body {
 }
 
 .googlesearch {
-	width: 500px;
-	background-color: #45c3d0;
+	width: 228px;
 }
 
 .header {
@@ -103,6 +102,12 @@ body {
 	margin-bottom: 0px;
 }
 
+.break hr {
+	border-top: 5px solid #45c3d0;
+	margin-top: 30px;
+	margin-bottom: 0px;
+}
+
 h1 {
 	font-size: 90px;
 	text-align: center;
@@ -162,12 +167,43 @@ h1 {
 	padding-top: 0px;
 	margin-bottom: 0;
 	padding-bottom: 0;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+input#gsc-i-id1 {
+    background: none !important;
+}
+
+input.gsc-search-button {
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+
+form.gsc-search-box {
+	width: 200px !important;
+}
+
+.gsc-control-wrapper-cse {
+	width: 200px !important;
+}
+
+.gsc-control-cse {
+	width: 200px !important;
+	padding-top: 8px !important;
+	padding-bottom: 8px !important;
+	margin-right: 0 !important;
+}
+
+.___gcse_0 {
+	width: 220px !important;
 }
 
 .vectormap img {
 	height: 350px;
 	width: 100%;
 }
+
 
 h2 {
 	font-size: 48px;
@@ -228,8 +264,8 @@ p {
 	height: 220px;
 	z-index: 0;
 	position: relative;
-	margin-top: 270px;
-	margin-bottom: 270px;
+	margin-top: 200px;
+	margin-bottom: 220px;
 }
 
 .instabannerhome h4 {
