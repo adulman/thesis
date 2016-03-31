@@ -513,7 +513,7 @@ button.friday:hover {
 	margin: 5px;
 }
 
-button.friday:active {
+button.fridayactive {
 	background-color: #fcb233;
 	width: 150px;
 	height: 50px;
@@ -547,14 +547,14 @@ button.saturday:hover{
 	margin: 5px;
 }
 
-button.saturday:active{
+button.saturdayactive{
 	background-color: #f15b61;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid;
+	border: 2px solid #f15b61;
 	margin: 5px;
 }
 
@@ -580,14 +580,14 @@ button.sunday:hover {
 	margin: 5px;
 }
 
-button.sunday:active {
+button.sundayactive {
 	background-color: #45c3d0;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid;
+	border: 2px solid #45c3d0;
 	margin: 5px;
 }
 
