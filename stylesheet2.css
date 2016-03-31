@@ -81,7 +81,8 @@ body {
 	height: 80px;
 	width: 100%;
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 80px;
+	padding-top: 50px;
 }
 
 .footer p{
@@ -120,8 +121,8 @@ h1 {
 }
 
 .grid {
-	width: 400px;
-	height: 400px;
+	width: 300px;
+	height: 300px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	padding-right: 10px;
@@ -210,6 +211,7 @@ form.gsc-search-box {
 h2 {
 	font-size: 48px;
 	margin-left: 150px;
+	margin-bottom: 10px;
 }
 
 h5 {
@@ -489,3 +491,106 @@ a.footer:visited {
 	color: #45c3d0;
 }
 
+button.friday {
+	background-color: white;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #fcb233;
+	border: 2px solid #fcb233;
+	margin: 5px;
+}
+
+button.friday:hover {
+	background-color: #fcb233;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #fcb233;
+	margin: 5px;
+}
+
+button.friday:active {
+	background-color: #fcb233;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #fcb233;
+	margin: 5px;
+}
+
+
+button.saturday {
+	background-color: white;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #f15b61;
+	border: 2px solid #f15b61;
+	margin: 5px;
+}
+
+button.saturday:hover{
+	background-color: #f15b61;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #f15b61;
+	margin: 5px;
+}
+
+button.saturday:active{
+	background-color: #f15b61;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid;
+	margin: 5px;
+}
+
+button.sunday {
+	background-color: white;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #45c3d0;
+	border: 2px solid #45c3d0;
+	margin: 5px;
+}
+
+button.sunday:hover {
+	background-color: #45c3d0;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #45c3d0;
+	margin: 5px;
+}
+
+button.sunday:active {
+	background-color: #45c3d0;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid;
+	margin: 5px;
+}
+
+.buttonrow {
+	padding-left: 150px;
+}
