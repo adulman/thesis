@@ -25,7 +25,7 @@ body {
 
 .header {
 	background-color: white;
-	color: #fcb233;
+	color: #69c9ca;
 	height: 200px;
 	width: 100%;
 	padding-top: 70px;
@@ -335,7 +335,7 @@ td.home {
 }
 
 .basicfactssection {
-	background-color: #45c3d0;
+	background-color: #69c9ca;
 	margin-bottom: 140px;
 	margin-top: 100px;
 	margin-right: 50px;
@@ -447,14 +447,14 @@ ul#rightmenu li{
 
 ul#rightmenu li a{
     display: inline-block;
-    color: #45c3d0;
+    color: #69c9ca;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
 }
 
 ul#rightmenu li a:hover{
-    color: #f15b61;
+    color: #f5856d;
 }
 
 ul#leftmenu {
@@ -475,14 +475,14 @@ ul#leftmenu li{
 
 ul#leftmenu li a{
     display: inline-block;
-    color: #45c3d0;
+    color: #69c9ca;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
 }
 
 ul#leftmenu li a:hover{
-    color: #f15b61;
+    color: #f5856d;
 }
 
 a:link {
