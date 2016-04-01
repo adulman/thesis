@@ -57,7 +57,7 @@ body {
 	text-align: center;
 	width: 100%;
 	position: relative;
-	background-color: #d8d6d7;
+	background-color: #ebebeb;
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
@@ -95,7 +95,7 @@ body {
 	width: 100%;
 	text-align: center;
 	margin-top: 80px;
-	padding-top: 50px;
+	background-color: #d8d6d7;
 }
 
 .footer p{
@@ -103,17 +103,17 @@ body {
 	line-height: 22px;
 	margin-right: 0px;
 	margin-top: 0px;
-	color: #45c3d0;
+	color: #ffffff;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 .footer hr {
-	border-top: 3px solid #45c3d0;
+	border-top: 3px solid #6cafa0;
 }
 
 .menubar hr {
-	border-top: 3px solid #45c3d0;
+	border-top: 3px solid #6cafa0;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
@@ -506,15 +506,16 @@ a:link {
 
 a.footer: link {
 	text-decoration: none;
-	color: #45c3d0;
+	color: #ffffff;
 }
 
 a.footer:hover {
 	text-decoration: underline;
+	color: #ffffff;
 }
 
 a.footer:visited {
-	color: #45c3d0;
+	color: #ffffff;
 }
 
 button.friday {
