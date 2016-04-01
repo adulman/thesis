@@ -142,6 +142,7 @@ h1 {
 .imagegrid {
 	padding-top: 20px;
 	text-align: center;
+	padding-bottom: 80px;
 }
 
 .imagegridhome {
@@ -167,6 +168,7 @@ h1 {
 
 .arrow {
 	text-align: center;
+	padding-bottom: 60px;
 }
 
 .newhead {
@@ -240,7 +242,7 @@ ul {
 }
 
 h3 {
-	color: #f5856d;
+	color: #ef6c62;
 	font-size: 30px;
 	margin-top: 70px;
 	margin-bottom: 0;
@@ -260,7 +262,7 @@ p {
 
 
 .instabanner {
-	background-color: #f5856d;
+	background-color: #ef6c62;
 	width: 80%;
 	text-align: left;
 	margin-left: 150px;
@@ -289,7 +291,7 @@ p {
 }
 
 .instabannerpink {
-	background-color: #bababa;
+	background-color: #d8d960;
 	width: 80%;
 	vertical-align: center;
 	text-align: left;
@@ -302,7 +304,7 @@ p {
 }
 
 .instabannerblue {
-	background-color: #69c9ca;
+	background-color: #6cafa0;
 	width: 80%;
 	vertical-align: center;
 	text-align: left;
@@ -335,7 +337,6 @@ td.home {
 }
 
 .basicfactssection {
-	background-color: #69c9ca;
 	margin-bottom: 140px;
 	margin-top: 100px;
 	margin-right: 50px;
@@ -351,7 +352,7 @@ td.home {
 	margin-left: 80px;
 	padding-top: 20px;
 	margin-bottom: 0;
-	color: #ffffff;
+	color: #6cafa0;
 }
 
 .bluetip {
@@ -508,30 +509,30 @@ button.friday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #f5856d;
-	border: 2px solid #f5856d;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
 	margin: 5px;
 }
 
 button.friday:hover {
-	background-color: #f5856d;
+	background-color: #ef6c62;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #f5856d;
+	border: 2px solid #ef6c62;
 	margin: 5px;
 }
 
 button.fridayactive {
-	background-color: #f5856d;
+	background-color: #ef6c62;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #f5856d;
+	border: 2px solid #ef6c62;
 	margin: 5px;
 }
 
@@ -542,30 +543,30 @@ button.saturday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #bababa;
-	border: 2px solid #bababa;
+	color: #d8d960;
+	border: 2px solid #d8d960;
 	margin: 5px;
 }
 
 button.saturday:hover{
-	background-color: #bababa;
+	background-color: #d8d960;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #bababa;
+	border: 2px solid #d8d960;
 	margin: 5px;
 }
 
 button.saturdayactive{
-	background-color: #bababa;
+	background-color: #d8d960;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #bababa;
+	border: 2px solid #d8d960;
 	margin: 5px;
 }
 
@@ -581,27 +582,32 @@ button.sunday {
 }
 
 button.sunday:hover {
-	background-color: #69c9ca;
+	background-color: #6cafa0;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #69c9ca;
+	border: 2px solid #6cafa0;
 	margin: 5px;
 }
 
 button.sundayactive {
-	background-color: #69c9ca;
+	background-color: #6cafa0;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #69c9ca;
+	border: 2px solid #6cafa0;
 	margin: 5px;
 }
 
 .buttonrow {
 	padding-left: 150px;
+}
+
+.basicfactscontainer {
+	background-color: #d8d6d7;
+	margin-bottom: 100px;
 }
