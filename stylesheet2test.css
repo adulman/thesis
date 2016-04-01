@@ -223,6 +223,7 @@ h2 {
 	margin-left: 150px;
 	margin-bottom: 10px;
 	padding-top: 50px;
+	color: #666666;
 }
 
 h5 {
@@ -251,6 +252,7 @@ p {
 	line-height: 31px;
 	margin-top: 8px;
 	margin-right: 600px;
+	color: #666666;
 }
 
 .itinerary {
@@ -375,7 +377,7 @@ td.home {
 }
 
 h4 {
-	color: #000000;
+	color: #666666;
 	font-size: 48px;
 	line-height: 60px;
 	z-index: 1;
@@ -508,7 +510,7 @@ button.friday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #f5856d;
+	color: #666666;
 	border: 2px solid #f5856d;
 	margin: 5px;
 }
@@ -519,7 +521,7 @@ button.friday:hover {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: white;
+	color: #666666;
 	border: 2px solid #f5856d;
 	margin: 5px;
 }
