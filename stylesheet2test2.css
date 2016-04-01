@@ -25,7 +25,7 @@ body {
 
 .header {
 	background-color: white;
-	color: #6cafa0;
+	color: #72c1ad;
 	height: 200px;
 	width: 100%;
 	padding-top: 70px;
@@ -103,17 +103,17 @@ body {
 	line-height: 22px;
 	margin-right: 0px;
 	margin-top: 0px;
-	color: #6cafa0;
+	color: #72c1ad;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 .footer hr {
-	border-top: 3px solid #6cafa0;
+	border-top: 3px solid #72c1ad;
 }
 
 .menubar hr {
-	border-top: 3px solid #6cafa0;
+	border-top: 3px solid #72c1ad;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
@@ -307,7 +307,7 @@ p {
 }
 
 .instabannerblue {
-	background-color: #6cafa0;
+	background-color: #72c1ad;
 	width: 80%;
 	vertical-align: center;
 	text-align: left;
@@ -462,7 +462,7 @@ ul#rightmenu li{
 
 ul#rightmenu li a{
     display: inline-block;
-    color: #6cafa0;
+    color: #72c1ad;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
@@ -490,7 +490,7 @@ ul#leftmenu li{
 
 ul#leftmenu li a{
     display: inline-block;
-    color: #6cafa0;
+    color: #72c1ad;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
@@ -506,16 +506,16 @@ a:link {
 
 a.footer: link {
 	text-decoration: none;
-	color: #6cafa0;
+	color: #72c1ad;
 }
 
 a.footer:hover {
 	text-decoration: underline;
-	color: #6cafa0;
+	color: #72c1ad;
 }
 
 a.footer:visited {
-	color: #6cafa0;
+	color: #72c1ad;
 }
 
 button.friday {
@@ -591,30 +591,30 @@ button.sunday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #69c9ca;
-	border: 2px solid #69c9ca;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
 	margin: 5px;
 }
 
 button.sunday:hover {
-	background-color: #6cafa0;
+	background-color: #72c1ad;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #6cafa0;
+	border: 2px solid #72c1ad;
 	margin: 5px;
 }
 
 button.sundayactive {
-	background-color: #6cafa0;
+	background-color: #72c1ad;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #6cafa0;
+	border: 2px solid #72c1ad;
 	margin: 5px;
 }
 
