@@ -95,7 +95,7 @@ body {
 	width: 100%;
 	text-align: center;
 	margin-top: 80px;
-	background-color: #d8d6d7;
+	background-color: #ebebeb;
 }
 
 .footer p{
@@ -103,7 +103,7 @@ body {
 	line-height: 22px;
 	margin-right: 0px;
 	margin-top: 0px;
-	color: #ffffff;
+	color: #6cafa0;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
@@ -506,16 +506,16 @@ a:link {
 
 a.footer: link {
 	text-decoration: none;
-	color: #ffffff;
+	color: #6cafa0;
 }
 
 a.footer:hover {
 	text-decoration: underline;
-	color: #ffffff;
+	color: #6cafa0;
 }
 
 a.footer:visited {
-	color: #ffffff;
+	color: #6cafa0;
 }
 
 button.friday {
