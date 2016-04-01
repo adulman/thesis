@@ -240,7 +240,7 @@ ul {
 }
 
 h3 {
-	color: #fcb233;
+	color: #f5856d;
 	font-size: 30px;
 	margin-top: 70px;
 	margin-bottom: 0;
@@ -260,7 +260,7 @@ p {
 
 
 .instabanner {
-	background-color: #fcb233;
+	background-color: #f5856d;
 	width: 80%;
 	text-align: left;
 	margin-left: 150px;
@@ -289,7 +289,7 @@ p {
 }
 
 .instabannerpink {
-	background-color: #f15b61;
+	background-color: #bababa;
 	width: 80%;
 	vertical-align: center;
 	text-align: left;
@@ -302,7 +302,7 @@ p {
 }
 
 .instabannerblue {
-	background-color: #45c3d0;
+	background-color: #69c9ca;
 	width: 80%;
 	vertical-align: center;
 	text-align: left;
@@ -508,30 +508,30 @@ button.friday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #fcb233;
-	border: 2px solid #fcb233;
+	color: #f5856d;
+	border: 2px solid #f5856d;
 	margin: 5px;
 }
 
 button.friday:hover {
-	background-color: #fcb233;
+	background-color: #f5856d;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #fcb233;
+	border: 2px solid #f5856d;
 	margin: 5px;
 }
 
 button.fridayactive {
-	background-color: #fcb233;
+	background-color: #f5856d;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #fcb233;
+	border: 2px solid #f5856d;
 	margin: 5px;
 }
 
@@ -542,30 +542,30 @@ button.saturday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #f15b61;
-	border: 2px solid #f15b61;
+	color: #bababa;
+	border: 2px solid #bababa;
 	margin: 5px;
 }
 
 button.saturday:hover{
-	background-color: #f15b61;
+	background-color: #bababa;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #f15b61;
+	border: 2px solid #bababa;
 	margin: 5px;
 }
 
 button.saturdayactive{
-	background-color: #f15b61;
+	background-color: #bababa;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #f15b61;
+	border: 2px solid #bababa;
 	margin: 5px;
 }
 
@@ -575,30 +575,30 @@ button.sunday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #45c3d0;
-	border: 2px solid #45c3d0;
+	color: #69c9ca;
+	border: 2px solid #69c9ca;
 	margin: 5px;
 }
 
 button.sunday:hover {
-	background-color: #45c3d0;
+	background-color: #69c9ca;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #45c3d0;
+	border: 2px solid #69c9ca;
 	margin: 5px;
 }
 
 button.sundayactive {
-	background-color: #45c3d0;
+	background-color: #69c9ca;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #45c3d0;
+	border: 2px solid #69c9ca;
 	margin: 5px;
 }
 
