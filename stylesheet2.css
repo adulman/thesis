@@ -25,7 +25,7 @@ body {
 
 .header {
 	background-color: white;
-	color: #69c9ca;
+	color: #72c1ad;
 	height: 200px;
 	width: 100%;
 	padding-top: 70px;
@@ -57,10 +57,13 @@ body {
 	text-align: center;
 	width: 100%;
 	position: relative;
+	background-color: #ebebeb;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 .overlay {
-	background-color :transparent; 
+   background-color :transparent; 
    position:absolute; 
    width: 100%;
    height: 100%; /* your iframe height */
@@ -92,7 +95,7 @@ body {
 	width: 100%;
 	text-align: center;
 	margin-top: 80px;
-	padding-top: 50px;
+	background-color: #ebebeb;
 }
 
 .footer p{
@@ -100,17 +103,17 @@ body {
 	line-height: 22px;
 	margin-right: 0px;
 	margin-top: 0px;
-	color: #45c3d0;
+	color: #72c1ad;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 .footer hr {
-	border-top: 3px solid #45c3d0;
+	border-top: 3px solid #72c1ad;
 }
 
 .menubar hr {
-	border-top: 3px solid #45c3d0;
+	border-top: 3px solid #72c1ad;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
@@ -142,6 +145,7 @@ h1 {
 .imagegrid {
 	padding-top: 20px;
 	text-align: center;
+	padding-bottom: 100px;
 }
 
 .imagegridhome {
@@ -167,6 +171,7 @@ h1 {
 
 .arrow {
 	text-align: center;
+	padding-bottom: 60px;
 }
 
 .newhead {
@@ -240,7 +245,7 @@ ul {
 }
 
 h3 {
-	color: #f5856d;
+	color: #ef6c62;
 	font-size: 30px;
 	margin-top: 70px;
 	margin-bottom: 0;
@@ -260,7 +265,7 @@ p {
 
 
 .instabanner {
-	background-color: #f5856d;
+	background-color: #ef6c62;
 	width: 80%;
 	text-align: left;
 	margin-left: 150px;
@@ -289,7 +294,7 @@ p {
 }
 
 .instabannerpink {
-	background-color: #bababa;
+	background-color: #d8d960;
 	width: 80%;
 	vertical-align: center;
 	text-align: left;
@@ -302,7 +307,7 @@ p {
 }
 
 .instabannerblue {
-	background-color: #69c9ca;
+	background-color: #72c1ad;
 	width: 80%;
 	vertical-align: center;
 	text-align: left;
@@ -315,12 +320,13 @@ p {
 }
 
 table.basicfacts {
-	padding-left: 80px;
-	width: 625px;
+	padding-left: 0px;
+	width: 500px;
 	font-size: 25px;
 	line-height: 45px;
 	padding-top: 30px;
-	float: left;
+	vertical-align: center;
+	margin: auto;
 }
 
 table.home {
@@ -335,43 +341,52 @@ td.home {
 }
 
 .basicfactssection {
-	background-color: #69c9ca;
-	margin-bottom: 140px;
-	margin-top: 100px;
-	margin-right: 50px;
-	margin-left: 140px;
-	padding-bottom: 40px;
+	padding-bottom: 20px;
+	margin-bottom: 100px;
 	display: inline-block;
-	float:left;
-	width: 45%;
+	width: 100%;
+	height: 50px;
+	vertical-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #d8d6d7;
+}
+
+.basicfactstable {
+	vertical-align: center;
+	margin: auto;
 }
 
 .basicfactssection h2 {
 	font-size: 48px;
-	margin-left: 80px;
 	padding-top: 20px;
 	margin-bottom: 0;
-	color: #ffffff;
+	color: #6cafa0;
+	text-align: center;
+	padding-left: 0px;
+	margin-left: 0px;
+}
+
+.basicfactssection h3 {
+	color: white;
+	line-height: 50px;
+	margin-top: 0px;
+	margin-left: 500px;
+	font-weight: normal;
+	font-size: 30px;
 }
 
 .bluetip {
-	width: 30%;
-	text-align: left;
+	width: 100%;
+	text-align: center;
 	vertical-align: middle;
-	display: table-cell;
-	height: 486px;
-	position: relative;
 }
 
 .bluetip h2 {
 	margin-left: 0;
-	text-align: left;
+	text-align: center;
 	vertical-align: middle;
-	display: table-cell;
-	height: 540px;
-	position: relative;
 	padding-left: 0px;
-	width: 550px;
 }
 
 h4 {
@@ -447,14 +462,14 @@ ul#rightmenu li{
 
 ul#rightmenu li a{
     display: inline-block;
-    color: #69c9ca;
+    color: #72c1ad;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
 }
 
 ul#rightmenu li a:hover{
-    color: #f5856d;
+    color: #d8d960;
 }
 
 ul#leftmenu {
@@ -475,14 +490,14 @@ ul#leftmenu li{
 
 ul#leftmenu li a{
     display: inline-block;
-    color: #69c9ca;
+    color: #72c1ad;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
 }
 
 ul#leftmenu li a:hover{
-    color: #f5856d;
+    color: #d8d960;
 }
 
 a:link {
@@ -491,15 +506,16 @@ a:link {
 
 a.footer: link {
 	text-decoration: none;
-	color: #45c3d0;
+	color: #72c1ad;
 }
 
 a.footer:hover {
 	text-decoration: underline;
+	color: #72c1ad;
 }
 
 a.footer:visited {
-	color: #45c3d0;
+	color: #72c1ad;
 }
 
 button.friday {
@@ -508,30 +524,30 @@ button.friday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #f5856d;
-	border: 2px solid #f5856d;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
 	margin: 5px;
 }
 
 button.friday:hover {
-	background-color: #f5856d;
+	background-color: #ef6c62;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #f5856d;
+	border: 2px solid #ef6c62;
 	margin: 5px;
 }
 
 button.fridayactive {
-	background-color: #f5856d;
+	background-color: #ef6c62;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #f5856d;
+	border: 2px solid #ef6c62;
 	margin: 5px;
 }
 
@@ -542,30 +558,30 @@ button.saturday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #bababa;
-	border: 2px solid #bababa;
+	color: #d8d960;
+	border: 2px solid #d8d960;
 	margin: 5px;
 }
 
 button.saturday:hover{
-	background-color: #bababa;
+	background-color: #d8d960;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #bababa;
+	border: 2px solid #d8d960;
 	margin: 5px;
 }
 
 button.saturdayactive{
-	background-color: #bababa;
+	background-color: #d8d960;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #bababa;
+	border: 2px solid #d8d960;
 	margin: 5px;
 }
 
@@ -575,33 +591,39 @@ button.sunday {
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
-	color: #69c9ca;
-	border: 2px solid #69c9ca;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
 	margin: 5px;
 }
 
 button.sunday:hover {
-	background-color: #69c9ca;
+	background-color: #72c1ad;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #69c9ca;
+	border: 2px solid #72c1ad;
 	margin: 5px;
 }
 
 button.sundayactive {
-	background-color: #69c9ca;
+	background-color: #72c1ad;
 	width: 150px;
 	height: 50px;
 	font-size: 30px;
 	font-weight: bold;
 	color: white;
-	border: 2px solid #69c9ca;
+	border: 2px solid #72c1ad;
 	margin: 5px;
 }
 
 .buttonrow {
 	padding-left: 150px;
+}
+
+.basicfactscontainer {
+	background-color: #d8d6d7;
+	margin-bottom: 100px;
+	height: 600px;
 }
