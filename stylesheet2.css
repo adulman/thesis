@@ -630,3 +630,8 @@ button.sundayactive {
 	margin-bottom: 100px;
 	height: 600px;
 }
+
+.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+}
