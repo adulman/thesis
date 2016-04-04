@@ -132,7 +132,7 @@ h1 {
 	padding-top: 10px;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	line-height: 30px;
+	line-height: 90px;
 }
 
 .grid {
@@ -455,11 +455,12 @@ ul#rightmenu {
     background-color: #ffffff;
     display: inline-block;
     float:right;
-  	font
+    transition: all 0.5s ease;
 }
 
 ul#rightmenu li{
     float: right;
+    transition: all 0.5s ease;
 
 }
 
@@ -469,10 +470,12 @@ ul#rightmenu li a{
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
+    transition: all 0.5s ease;
 }
 
 ul#rightmenu li a:hover{
     color: #d8d960;
+    transition: all 0.5s ease;
 }
 
 ul#leftmenu {
@@ -482,13 +485,13 @@ ul#leftmenu {
     overflow: hidden;
     background-color: #ffffff;
     display: inline-block;
-
-
+    transition: all 0.5s ease;
 }
 
 ul#leftmenu li{
     float: left;
     height: 100%;
+    transition: all 0.5s ease;
 }
 
 ul#leftmenu li a{
@@ -497,32 +500,39 @@ ul#leftmenu li a{
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
+    transition: all 0.5s ease;
 }
 
 ul#leftmenu li a:hover{
     color: #d8d960;
+    transition: all 0.5s ease;
 }
 
 a:link {
 	text-decoration: none;
+	transition: all 0.5s ease;
 }
 
 a.footer:link {
 	text-decoration: none;
 	color: #72c1ad;
+	transition: all 0.5s ease;
 }
 
 a.footer:hover {
 	text-decoration: underline;
 	color: #72c1ad;
+	transition: all 0.5s ease;
 }
 
 a.footer:visited {
 	color: #72c1ad;
+	transition: all 0.5s ease;
 }
 
 a.footer: unvisited {
 	color: #72c1ad;
+	transition: all 0.5s ease;
 }
 
 button.friday {
@@ -534,6 +544,7 @@ button.friday {
 	color: #ef6c62;
 	border: 2px solid #ef6c62;
 	margin: 5px;
+	transition: all 0.5s ease;
 }
 
 button.friday:hover {
@@ -545,6 +556,7 @@ button.friday:hover {
 	color: white;
 	border: 2px solid #ef6c62;
 	margin: 5px;
+	transition: all 0.5s ease;
 }
 
 button.fridayactive {
@@ -556,6 +568,7 @@ button.fridayactive {
 	color: white;
 	border: 2px solid #ef6c62;
 	margin: 5px;
+	transition: all 0.5s ease;
 }
 
 
@@ -568,6 +581,7 @@ button.saturday {
 	color: #d8d960;
 	border: 2px solid #d8d960;
 	margin: 5px;
+	transition: all 0.5s ease;
 }
 
 button.saturday:hover{
@@ -579,6 +593,7 @@ button.saturday:hover{
 	color: white;
 	border: 2px solid #d8d960;
 	margin: 5px;
+	transition: all 0.5s ease;
 }
 
 button.saturdayactive{
@@ -590,6 +605,7 @@ button.saturdayactive{
 	color: white;
 	border: 2px solid #d8d960;
 	margin: 5px;
+	transition: all 0.5s ease;
 }
 
 button.sunday {
@@ -601,6 +617,7 @@ button.sunday {
 	color: #72c1ad;
 	border: 2px solid #72c1ad;
 	margin: 5px;
+	transition: all 0.5s ease;
 }
 
 button.sunday:hover {
@@ -612,6 +629,7 @@ button.sunday:hover {
 	color: white;
 	border: 2px solid #72c1ad;
 	margin: 5px;
+	transition: all 0.5s ease;
 }
 
 button.sundayactive {
@@ -623,6 +641,7 @@ button.sundayactive {
 	color: white;
 	border: 2px solid #72c1ad;
 	margin: 5px;
+	transition: all 0.5s ease;
 }
 
 .buttonrow {
@@ -890,6 +909,7 @@ and (orientation : portrait) {
 	color: #ef6c62;
 	border: 2px solid #ef6c62;
 	margin: 5px;
+	transition: all 0.5s ease;
 	}
 
 	button.friday:hover {
@@ -901,6 +921,7 @@ and (orientation : portrait) {
 	color: white;
 	border: 2px solid #ef6c62;
 	margin: 5px;
+	transition: all 0.5s ease;
 	}
 
 	button.fridayactive {
@@ -912,6 +933,7 @@ and (orientation : portrait) {
 	color: white;
 	border: 2px solid #ef6c62;
 	margin: 5px;
+	transition: all 0.5s ease;
 	}
 
 
@@ -924,6 +946,7 @@ and (orientation : portrait) {
 	color: #d8d960;
 	border: 2px solid #d8d960;
 	margin: 5px;
+	transition: all 0.5s ease;
 	}
 
 	button.saturday:hover{
@@ -935,6 +958,7 @@ and (orientation : portrait) {
 	color: white;
 	border: 2px solid #d8d960;
 	margin: 5px;
+	transition: all 0.5s ease;
 	}
 
 	button.saturdayactive{
@@ -946,6 +970,7 @@ and (orientation : portrait) {
 	color: white;
 	border: 2px solid #d8d960;
 	margin: 5px;
+	transition: all 0.5s ease;
 	}
 
 	button.sunday {
@@ -957,6 +982,7 @@ and (orientation : portrait) {
 	color: #72c1ad;
 	border: 2px solid #72c1ad;
 	margin: 5px;
+	transition: all 0.5s ease;
 	}
 
 	button.sunday:hover {
@@ -968,6 +994,7 @@ and (orientation : portrait) {
 	color: white;
 	border: 2px solid #72c1ad;
 	margin: 5px;
+	transition: all 0.5s ease;
 	}
 
 	button.sundayactive {
@@ -979,6 +1006,7 @@ and (orientation : portrait) {
 	color: white;
 	border: 2px solid #72c1ad;
 	margin: 5px;
+	transition: all 0.5s ease;
 	}
 
 	.bottompagearrows img{
@@ -1256,6 +1284,7 @@ and (orientation : portrait) {
 	color: white;
 	border: 2px solid #ef6c62;
 	margin: 5px;
+	transition: all 0.3s ease;
 	}
 
 	button.fridayactive {
@@ -1290,6 +1319,7 @@ and (orientation : portrait) {
 	color: white;
 	border: 2px solid #d8d960;
 	margin: 5px;
+	transition: all 0.3s ease;
 	}
 
 	button.saturdayactive{
@@ -1323,6 +1353,7 @@ and (orientation : portrait) {
 	color: white;
 	border: 2px solid #72c1ad;
 	margin: 5px;
+	transition: all 0.3s ease;
 	}
 
 	button.sundayactive {
