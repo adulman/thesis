@@ -989,7 +989,12 @@ and (orientation : portrait) {
 	text-align: center;
 	margin-top: 80px;
 	background-color: #ebebeb;
-}
+	}
 
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 40px;
+	}
 }
 
