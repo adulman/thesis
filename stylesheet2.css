@@ -853,5 +853,11 @@ and (orientation : portrait) {
 	text-align: center;
 	margin-left: 0px;
 	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 60px;
+	margin-top: 100px;
+	}
 }
 
