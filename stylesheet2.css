@@ -1001,5 +1001,9 @@ and (orientation : portrait) {
 	span:last-of-type {
         display: block;
     }
+
+    span:nth-of-type(2) {
+        display: block;
+    }
 }
 
