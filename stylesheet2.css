@@ -948,7 +948,7 @@ and (orientation : portrait) {
 
 	button.sunday {
 	background-color: white;
-	width: 230px;
+	width: 270px;
 	height: 80px;
 	font-size: 45px;
 	font-weight: bold;
@@ -959,7 +959,7 @@ and (orientation : portrait) {
 
 	button.sunday:hover {
 	background-color: #72c1ad;
-	width: 230px;
+	width: 270px;
 	height: 80px;
 	font-size: 45px;
 	font-weight: bold;
@@ -970,7 +970,7 @@ and (orientation : portrait) {
 
 	button.sundayactive {
 	background-color: #72c1ad;
-	width: 230px;
+	width: 270px;
 	height: 80px;
 	font-size: 45px;
 	font-weight: bold;
