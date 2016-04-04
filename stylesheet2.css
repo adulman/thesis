@@ -873,5 +873,105 @@ and (orientation : portrait) {
 	padding-top: 30px;
 	text-align: center;
 	}
+
+	button.friday {
+	background-color: white;
+	width: 220px;
+	height: 80px;
+	font-size: 45px;
+	font-weight: bold;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
+	margin: 5px;
+	}
+
+	button.friday:hover {
+	background-color: #ef6c62;
+	width: 220px;
+	height: 80px;
+	font-size: 45px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 5px;
+	}
+
+	button.fridayactive {
+	background-color: #ef6c62;
+	width: 220px;
+	height: 80px;
+	font-size: 45px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 5px;
+	}
+
+
+	button.saturday {
+	background-color: white;
+	width: 220px;
+	height: 80px;
+	font-size: 45px;
+	font-weight: bold;
+	color: #d8d960;
+	border: 2px solid #d8d960;
+	margin: 5px;
+	}
+
+	button.saturday:hover{
+	background-color: #d8d960;
+	width: 220px;
+	height: 80px;
+	font-size: 45px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 5px;
+	}
+
+	button.saturdayactive{
+	background-color: #d8d960;
+	width: 220px;
+	height: 80px;
+	font-size: 45px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 5px;
+	}
+
+	button.sunday {
+	background-color: white;
+	width: 220px;
+	height: 80px;
+	font-size: 45px;
+	font-weight: bold;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
+	margin: 5px;
+	}
+
+	button.sunday:hover {
+	background-color: #72c1ad;
+	width: 220px;
+	height: 80px;
+	font-size: 45px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 5px;
+	}
+
+	button.sundayactive {
+	background-color: #72c1ad;
+	width: 220px;
+	height: 80px;
+	font-size: 45px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 5px;
+	}
 }
 
