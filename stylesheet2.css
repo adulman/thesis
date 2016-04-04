@@ -844,7 +844,7 @@ and (orientation : portrait) {
 	display: table-cell;
 	padding-left: 125px;
 	height: 220px;
-	padding-right: 100px;
+	padding-right: 125px;
 	padding-top: 800px;
 	padding-bottom: 40px;
 	}
