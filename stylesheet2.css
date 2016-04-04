@@ -234,7 +234,7 @@ h2 {
 
 h5 {
 	font-size: 45px;
-	line-height: 0px;
+	line-height: 50px;
 }
 
 li {
@@ -635,3 +635,203 @@ button.sundayactive {
 	vertical-align: center;
 	text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : portrait) { 
+
+	body {
+	font-family: proxima-nova-condensed, proxima-nova, Helvetica, Arial, sans-serif; 
+	margin: 0;
+	width: 100%;
+	overflow-x: hidden;
+	-webkit-font-smoothing: antialiased;
+	}
+
+	.gridhome {
+	width: 350px;
+	height: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.grid {
+	width: 400px;
+	height: 400px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	}
+
+	.vectormap {
+	padding-top: 0px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 100%;
+	}
+
+	p {
+	font-size: 10px;
+	line-height: 16px;
+	margin-top: 8px;
+	margin-right: 80px;
+	margin-left: 80px;
+	}
+
+	.itinerary {
+	width: 100%;
+	padding-left: 0px;
+	}
+
+	h3 {
+	color: #ef6c62;
+	font-size: 14px;
+	margin-top: 70px;
+	margin-bottom: 0;
+	margin-left: 80px;
+	}
+
+	.instabanner {
+	background-color: #ef6c62;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: 1000px;
+	z-index: 0;
+	position: relative;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	}
+
+	.instabannerpink {
+	background-color: #d8d960;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 1000px;
+	z-index: 0;
+	position: relative;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	}
+
+	.instabannerblue {
+	background-color: #72c1ad;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 1000px;
+	z-index: 0;
+	position: relative;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	}
+
+	.instabannerimg {
+	height: 720px;
+	width: 720px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 50px;
+	left: 100px;
+	right: 100px;
+	z-index: none;
+	top: 0px;
+	}
+
+	.vectormap img {
+	width: 100%;
+	height: 100%;
+	}
+
+	h2 {
+	font-size: 30px;
+	margin-left: 80px;
+	margin-bottom: 10px;
+	padding-top: 50px;
+	}
+
+	.buttonrow {
+	padding-left: 80px;
+	}
+
+	h5 {
+	font-size: 45px;
+	line-height: 50px;
+	margin-right: 80px;
+	margin-left: 80px;
+	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 60px;
+	padding-top: 60px;
+	}
+
+	.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 20px;
+	}
+
+	.map {
+	text-align: center;
+	width: 100%;
+	position: relative;
+	background-color: #ebebeb;
+	padding-top: 0;
+	padding-bottom: 0;
+	}
+
+	iframe {
+		width: 100%;
+	}
+
+	h1 {
+	font-size: 90px;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 100px;
+	}
+
+	h4 {
+	color: white;
+	font-size: 70px;
+	line-height: 100px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 100px;
+	height: 220px;
+	padding-right: 100px;
+	padding-top: 750px;
+	}
+}
+
