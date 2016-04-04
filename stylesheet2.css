@@ -521,6 +521,10 @@ a.footer:visited {
 	color: #72c1ad;
 }
 
+a.footer: unvisited {
+	color: #72c1ad;
+}
+
 button.friday {
 	background-color: white;
 	width: 150px;
@@ -693,8 +697,8 @@ and (orientation : portrait) {
 	}
 
 	p {
-	font-size: 10px;
-	line-height: 16px;
+	font-size: 20px;
+	line-height: 35px;
 	margin-top: 8px;
 	margin-right: 100px;
 	margin-left: 100px;
