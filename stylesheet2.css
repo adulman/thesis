@@ -805,7 +805,7 @@ and (orientation : portrait) {
 	text-align: center;
 	width: 100%;
 	position: relative;
-	background-color: #ebebeb;
+	background-color: white;
 	padding-top: 0;
 	padding-bottom: 0;
 	}
@@ -857,10 +857,7 @@ and (orientation : portrait) {
 	}
 
 	.arrow {
-	text-align: center;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	margin-top: 100px;
+	display:none;
 	}
 
 	.header {
