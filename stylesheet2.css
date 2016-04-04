@@ -997,5 +997,9 @@ and (orientation : portrait) {
 	text-align: center;
 	padding-top: 40px;
 	}
+
+	span:last-of-type {
+        display: block;
+    }
 }
 
