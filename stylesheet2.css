@@ -641,6 +641,9 @@ button.sundayactive {
 	padding-top: 80px;
 }
 
+.bottompagearrows img{
+	height: 40px;
+}
 
 
 
@@ -973,5 +976,11 @@ and (orientation : portrait) {
 	border: 2px solid #72c1ad;
 	margin: 5px;
 	}
+
+	.bottompagearrows img{
+	height: 70px;
+	}
+
+
 }
 
