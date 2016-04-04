@@ -634,6 +634,7 @@ button.sundayactive {
 .bottompagearrows {
 	vertical-align: center;
 	text-align: center;
+	padding-top: 80px;
 }
 
 
@@ -695,8 +696,8 @@ and (orientation : portrait) {
 	font-size: 10px;
 	line-height: 16px;
 	margin-top: 8px;
-	margin-right: 80px;
-	margin-left: 80px;
+	margin-right: 100px;
+	margin-left: 100px;
 	}
 
 	.itinerary {
@@ -709,7 +710,7 @@ and (orientation : portrait) {
 	font-size: 14px;
 	margin-top: 70px;
 	margin-bottom: 0;
-	margin-left: 80px;
+	margin-left: 100px;
 	}
 
 	.instabanner {
@@ -770,13 +771,13 @@ and (orientation : portrait) {
 
 	h2 {
 	font-size: 30px;
-	margin-left: 80px;
+	margin-left: 100px;
 	margin-bottom: 10px;
 	padding-top: 50px;
 	}
 
 	.buttonrow {
-	padding-left: 80px;
+	padding-left: 100px;
 	}
 
 	h5 {
@@ -833,5 +834,11 @@ and (orientation : portrait) {
 	padding-right: 100px;
 	padding-top: 750px;
 	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 80px;
+}
 }
 
