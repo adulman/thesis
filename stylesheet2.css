@@ -881,7 +881,7 @@ and (orientation : portrait) {
 
 	button.friday {
 	background-color: white;
-	width: 230px;
+	width: 250px;
 	height: 80px;
 	font-size: 45px;
 	font-weight: bold;
@@ -892,7 +892,7 @@ and (orientation : portrait) {
 
 	button.friday:hover {
 	background-color: #ef6c62;
-	width: 230px;
+	width: 250px;
 	height: 80px;
 	font-size: 45px;
 	font-weight: bold;
@@ -903,7 +903,7 @@ and (orientation : portrait) {
 
 	button.fridayactive {
 	background-color: #ef6c62;
-	width: 230px;
+	width: 250px;
 	height: 80px;
 	font-size: 45px;
 	font-weight: bold;
