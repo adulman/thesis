@@ -785,6 +785,8 @@ and (orientation : portrait) {
 	line-height: 50px;
 	margin-right: 80px;
 	margin-left: 80px;
+	margin-top: 20px;
+	margin-bottom: 0;
 	}
 
 	.arrow {
