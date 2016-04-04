@@ -873,7 +873,7 @@ and (orientation : portrait) {
 	.header {
 	background-color: white;
 	color: #72c1ad;
-	height: 200px;
+	height: auto;
 	width: 100%;
 	padding-top: 30px;
 	text-align: center;
