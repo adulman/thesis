@@ -1220,4 +1220,21 @@ and (orientation : portrait) {
 	margin-right: 0px;
 	margin-left: 0px;
 	}
+
+	.aboutcontentcallout {
+	margin-right: 0px;
+	margin-left: 0px;
+	background-color: #ef6c62;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	margin-bottom: 70px;
+	margin-top: 20px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 50px;
+	line-height: 65px;
+	color: #ffffff;
+	margin-top: 0;
+	}
 }
