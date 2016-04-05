@@ -929,6 +929,21 @@ and (orientation : portrait) {
 	padding-bottom: 40px;
 	}
 
+	h6 {
+	color: white;
+	font-size: 40px;
+	line-height: 50px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 125px;
+	height: 220px;
+	padding-right: 125px;
+	padding-top: 800px;
+	padding-bottom: 40px;
+	}
+
 	.bottompagearrows {
 	vertical-align: center;
 	text-align: center;
@@ -1171,4 +1186,21 @@ and (orientation : portrait) {
 	margin-left: 50px;
 	color: #d8d960;	
 	}
+
+	.wtfisthis {
+	padding-top: 80px;
+	text-align: center;
+	margin-right: 100px;
+	margin-left: 100px;
+	}
+
+	.wtfisthis p{
+	margin-right: 100px;
+	margin-left: 100px;
+	}
+
+	.aboutcontent {
+	margin-right: 100px;
+	margin-left: 100px;
+}
 }
