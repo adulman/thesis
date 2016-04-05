@@ -41,6 +41,8 @@ body {
 
 .homecityall {
 	text-align: center;
+	margin-right: 150px;
+	margin-left: 150px;
 }
 
 .homecityindividual {
@@ -57,12 +59,16 @@ body {
 	margin-right: 50px;
 	margin-left: 50px;
 	text-align: left;
+	float: left;
+	padding-top: 80px;
 }
 
 .homecityindividual h3{
 	margin-right: 50px;
 	margin-left: 50px;
+	margin-top: 40px;
 	text-align: left;
+	position: absolute;
 }
 
 .gridhome2 {
