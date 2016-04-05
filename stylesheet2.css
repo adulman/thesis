@@ -468,6 +468,12 @@ h6 {
 	margin-left: 250px;
 }
 
+.aboutcontentcallout {
+	margin-right: 250px;
+	margin-left: 250px;
+	padding-bottom: 50px;
+	line-height: 55px;
+}
 .aboutcontent p{
 	margin-right: 0px;
 }
@@ -931,8 +937,8 @@ and (orientation : portrait) {
 
 	h6 {
 	color: white;
-	font-size: 40px;
-	line-height: 50px;
+	font-size: 50px;
+	line-height: 60px;
 	z-index: 1;
 	position: relative;
 	vertical-align: middle;
@@ -1202,5 +1208,10 @@ and (orientation : portrait) {
 	.aboutcontent {
 	margin-right: 100px;
 	margin-left: 100px;
-}
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	margin-left: 0px;
+	}
 }
