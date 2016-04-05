@@ -1101,11 +1101,45 @@ and (orientation : portrait) {
 	margin-top: 0px;
 	}
 
-	table.home {
-	margin-left: auto;
+	.gridhome2 {
+	width: 700px;
+	height: 700px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 100px;
+	margin-left: 100px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
 	margin-right: auto;
-	width: 600px;
-	padding-bottom: 50px;
-	vertical-align: center;
+	margin-left: auto;
+	text-align: center;
+	width: auto;
+	height: auto;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 50px;
+	margin-left: 50px;
+	text-align: left;
+	float: left;
+	padding-top: 110px;
+	padding-bottom: 60px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 40px;
+	text-align: left;
+	position: absolute;
 	}
 }
