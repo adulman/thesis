@@ -174,6 +174,7 @@ h1 {
 .arrow {
 	text-align: center;
 	padding-bottom: 60px;
+	padding-top: 40px;
 }
 
 .newhead {
@@ -189,6 +190,7 @@ h1 {
 	padding-bottom: 0;
 	background-size: contain;
 	background-repeat: no-repeat;
+
 }
 
 input#gsc-i-id1 {
@@ -434,7 +436,6 @@ h6 {
 	z-index: 2;
 	position: absolute;
 	top:-90px;
-
 }
 
 .morecities {
