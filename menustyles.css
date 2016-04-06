@@ -15,7 +15,7 @@ body {
   padding: 0;
   border: 0;
   list-style: none;
-  line-height: 1;
+  line-height: 0.5;
   display: block;
   position: relative;
   -webkit-box-sizing: border-box;
@@ -148,7 +148,7 @@ body {
   top: 120px;
 }
 #cssmenu > ul > li:hover > ul {
-  top: 52px;
+  top: 40px;
   left: 0;
   opacity: 1;
 }
