@@ -822,7 +822,7 @@ and (orientation : portrait) {
 
 	button.friday {
 	background-color: white;
-	width: 85px;
+	width: 90px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
@@ -834,7 +834,7 @@ and (orientation : portrait) {
 
 	button.friday:hover {
 	background-color: #ef6c62;
-	width: 85px;
+	width: 90px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
@@ -846,7 +846,7 @@ and (orientation : portrait) {
 
 	button.fridayactive {
 	background-color: #ef6c62;
-	width: 85px;
+	width: 90px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
@@ -895,7 +895,7 @@ and (orientation : portrait) {
 
 	button.sunday {
 	background-color: white;
-	width: 85px;
+	width: 90px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
@@ -907,7 +907,7 @@ and (orientation : portrait) {
 
 	button.sunday:hover {
 	background-color: #72c1ad;
-	width: 85px;
+	width: 90px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
@@ -919,7 +919,7 @@ and (orientation : portrait) {
 
 	button.sundayactive {
 	background-color: #72c1ad;
-	width: 85px;
+	width: 90px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
