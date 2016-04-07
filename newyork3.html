@@ -7,41 +7,66 @@
 	<script src="https://use.typekit.net/kge0qhy.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 	<link href="lightbox.css" rel="stylesheet">
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 	<link rel="icon" href="myfavicon.ico">
 	<link rel="shortcut icon" href="myfavicon.ico" type="image/x-icon"/>
+	<meta charset='utf-8'>
+   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+   	<meta name="viewport" content="width=device-width, initial-scale=1">
+   	<link rel="stylesheet" href="menustyles.css">
+   	<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+   	<script src="script.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 	<script src="smoothscroll.js"></script>
 </head>
 
 <body>
 
-<div class="menubar"> 
-	<ul id="leftmenu" >
-		<li><a href="http://doesthischurchhavewifi.com/">DOES THIS CHURCH HAVE WIFI?</a></li>
-	</ul>
-
-	<ul id="rightmenu" >
- 		<li>
- 			<div class="googlesearch">
- 			<script>
- 				(function() {
-    			var cx = '017096189572621556147:tzr3kr_mlzw';
-    			var gcse = document.createElement('script');
-    			gcse.type = 'text/javascript';
-    			gcse.async = true;
-    			gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        		'//cse.google.com/cse.js?cx=' + cx;
-    			var s = document.getElementsByTagName('script')[0];
-    			s.parentNode.insertBefore(gcse, s);
- 			 	})();
-			</script>
-			<gcse:search></gcse:search>
-			</div>
-		</li>
-  		<li><a href="http://doesthischurchhavewifi.com/about">WTF IS THIS?</a></li>
-  		<li><a href="http://doesthischurchhavewifi.com/europe">EUROPE</a></li>
-  		<li><a href="http://doesthischurchhavewifi.com/america">AMERICA</a></li>
-	</ul>
+<div id='cssmenu'>
+<ul>
+   	<li class="dtchw"><a href='http://doesthischurchhavewifi.com/'><span>DOES THIS CHURCH HAVE WIFI?</span></a></li>
+   	<li class="home"><a href='http://doesthischurchhavewifi.com/'><span>HOME</span></a></li>
+   	<li class="search">
+   			<div class="googlesearch">
+     			<script>
+        			(function() {
+          			var cx = '017096189572621556147:tzr3kr_mlzw';
+          			var gcse = document.createElement('script');
+          			gcse.type = 'text/javascript';
+          			gcse.async = true;
+          			gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            		'//cse.google.com/cse.js?cx=' + cx;
+          			var s = document.getElementsByTagName('script')[0];
+          			s.parentNode.insertBefore(gcse, s);
+        			})();
+      			</script>
+      			<gcse:search></gcse:search>
+      		</div>
+    </li>
+	<li><a href='http://doesthischurchhavewifi.com/about'><span>WTF IS THIS?</span></a></li>
+   	<li><a href='http://doesthischurchhavewifi.com/america'><span>EUROPE</span></a>
+      <ul>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/amsterdam'><span>AMSTERDAM</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/barcelona'><span>BARCELONA</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/budapest'><span>BUDAPEST</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/cope'><span>COPENHAGEN</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/florence'><span>Florence</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/munich'><span>Munich</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/paris'><span>Paris</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/prague'><span>Prague</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/venice'><span>Venice</span></a></li>
+      </ul>
+   </li>
+      <li><a href='http://doesthischurchhavewifi.com/america'><span>AMERICA</span></a>
+      <ul>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/chicago'><span>Chicago</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/losangeles'><span>Los Angeles</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/miami'><span>Miami</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/newyork'><span>New York</span></a></li>
+         <li class="cityname"><a href='#'><span>New Orleans</span></a></li>
+         <li class="cityname"><a href='http://doesthischurchhavewifi.com/stlouis'><span>St. Louis</span></a></li>
+      </ul>
+   </li>
+</ul>
 </div>
 
 
@@ -121,8 +146,9 @@
 
 <div class="footer">
 	<hr>
-	<p>&copy; 2016 DOES THIS CHURCH HAVE WIFI? ALL RIGHTS RESERVED.<br>Created by <a class="footer" href="http://www.allisondulman.com" target="_blank">Allison Dulman</a></p>
+	<p><span>&copy; 2016 DOES THIS CHURCH HAVE WIFI?</span><span> ALL RIGHTS RESERVED.<br>Created by <a class="footer" href="http://www.allisondulman.com" target="_blank">Allison Dulman</a></p>
 </div> 
+
 
 <script src="lightbox-plus-jquery.js"></script>
 
