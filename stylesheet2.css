@@ -774,8 +774,12 @@ and (orientation : portrait) {
 
 	.hometop h5 {
 	font-size: 22px;
-	margin-bottom: 45px;
+	margin-bottom: 25px;
 	margin-top: 30px;
+	background-color: #ef6c62;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	}
 
 	.arrow {
