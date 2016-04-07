@@ -1211,7 +1211,7 @@ and (orientation : portrait) {
 	}
 
 	.wtfisthis {
-	padding-top: 80px;
+	padding-top: 20px;
 	text-align: center;
 	margin-right: 20px;
 	margin-left: 20px;
@@ -1232,8 +1232,8 @@ and (orientation : portrait) {
 
 	.aboutcontentcallout {
 	margin-right: 25px;
-	margin-left: 25px;
-	padding-bottom: 50px;
+	margin-left: 30px;
+	padding-bottom: 10px;
 	}
 
 	.aboutcontentcallout h3 {
@@ -1260,7 +1260,12 @@ and (orientation : portrait) {
 	padding-right: 25px;
 	padding-top: 350px;
 	padding-bottom: 20px;
-}
+	}
+
+	hr.wtf {
+		color: #ebebeb;
+		border: 1px solid;
+	}
 }
 
 
