@@ -725,6 +725,9 @@ button.sundayactive {
 	height: 40px;
 }
 
+.morecitiesarrow {
+		height: 80px;
+	}
 
 
 
@@ -1004,6 +1007,23 @@ and (orientation : portrait) {
 	margin-bottom: 0px;
 	}
 
+	.instabannerhome {
+	background-color: #72c1ad;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerhome h4 {
+	font-size: 22px;
+	line-height: 30px;
+	}
+
 	.instabannerimg {
 	height: 300px;
 	width: 300px;
@@ -1079,6 +1099,52 @@ and (orientation : portrait) {
 	margin-top: 0px;
 	color: #d8d960;
 	font-size: 22px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 60px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 25px;
+	text-align: left;
+	float: left;
+	padding-top: 50px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: left;
+	position: absolute;
+	}
+
+	.gridhome2 {
+	width: 250px;
+	height: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.morecitiesarrow {
+		height: 30px;
 	}
 }
 
