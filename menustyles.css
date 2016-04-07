@@ -357,16 +357,13 @@ body {
     float: right;
   }
 
-  #cssmenu > ul > li:first-child {
-    float: left;
-  }
-
   #cssmenu > ul > li:dtchw {
     display: none;
   }
 
   #cssmenu ul li.dtchw {
-  display: none;
+  display: block;
+  float: left;
   }
 }
 
