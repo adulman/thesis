@@ -793,7 +793,7 @@ and (orientation : portrait) {
 	.imagegrid {
 	padding-top: 20px;
 	text-align: center;
-	padding-bottom: 20px;
+	padding-bottom: 40px;
 	}
 
 	.map {
@@ -1023,6 +1023,37 @@ and (orientation : portrait) {
 
 	.arrow {
 	display:none;
+	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 30px;
+	}
+
+	.footer {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 40px;
+	background-color: #ebebeb;
+	}
+
+	.footer p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footer hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
 	}
 }
 
