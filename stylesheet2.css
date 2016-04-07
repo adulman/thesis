@@ -859,7 +859,7 @@ and (orientation : portrait) {
 
 	button.saturday {
 	background-color: white;
-	width: 90px;
+	width: 95px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
@@ -871,7 +871,7 @@ and (orientation : portrait) {
 
 	button.saturday:hover{
 	background-color: #d8d960;
-	width: 90px;
+	width: 95px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
@@ -883,7 +883,7 @@ and (orientation : portrait) {
 
 	button.saturdayactive{
 	background-color: #d8d960;
-	width: 90px;
+	width: 95px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
