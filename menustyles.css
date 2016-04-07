@@ -266,6 +266,13 @@ body {
   #cssmenu > ul > li.active > a {
     background: rgba(0, 0, 0, 0.1);
   }
+
+  #cssmenu > ul > li.home:active > a {
+    background: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    display: block;
+  }
+
   #cssmenu #menu-button {
     display: block;
     text-decoration: none;
@@ -375,7 +382,7 @@ body {
   }
 
   #cssmenu ul li.home {
-  display: inline-block;
+  display: block;
   }
 
   #cssmenu ul li.search {
