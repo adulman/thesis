@@ -351,12 +351,34 @@ body {
 
 
 
-@media (min-width: 640px) {
+@media (min-width: 800px) {
   #cssmenu > ul > li {
     float: right;
   }
 
   #cssmenu > ul > li:first-child {
     float: left;
+  }
+
+  #cssmenu > ul > li:dtchw {
+    display: none;
+  }
+
+  #cssmenu ul li.dtchw {
+  display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  #cssmenu ul li.dtchw {
+  display: none;
+  }
+
+  #cssmenu ul li.home {
+  display: inline-block;
+  }
+
+  #cssmenu ul li.search {
+  display: none;
   }
 }
