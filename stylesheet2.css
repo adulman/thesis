@@ -101,6 +101,7 @@ body {
 .hometop h5 {
 	margin-bottom: 45px;
 	margin-top: 65px;
+	color: #ef6c62;
 }
 .map {
 	text-align: center;
@@ -147,7 +148,26 @@ body {
 	background-color: #ebebeb;
 }
 
+.footeramerica {
+	height: 80px;
+	width: 100%;
+	text-align: center;
+	margin-top: 80px;
+	background-color: #ebebeb;
+}
+
 .footer p{
+	font-size: 16px;
+	line-height: 22px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+
+.footeramerica p{
 	font-size: 16px;
 	line-height: 22px;
 	margin-right: 0px;
@@ -161,6 +181,11 @@ body {
 .footer hr {
 	border-top: 3px solid #72c1ad;
 }
+
+.footeramerica hr {
+	border-top: 3px solid #72c1ad;
+}
+
 
 .menubar hr {
 	border-top: 3px solid #72c1ad;
@@ -1076,6 +1101,14 @@ and (orientation : portrait) {
 	background-color: #ebebeb;
 	}
 
+	.footeramerica {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	background-color: #ebebeb;
+	}
+
 	.footer p{
 	font-size: 10px;
 	line-height: 16px;
@@ -1088,7 +1121,24 @@ and (orientation : portrait) {
 	width: 100%
 	}
 
+	.footeramerica p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
 	.footer hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.footeramerica hr {
 	border-top: 2px solid #72c1ad;
 	margin: 0;
 	}
