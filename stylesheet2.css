@@ -1073,7 +1073,8 @@ and (orientation : portrait) {
 	margin-right: 25px;
 	margin-left: 25px;
 	margin-top: 0px;
-	font-color: #d8d960;
+	color: #d8d960;
+	font-size: 22px;
 	}
 }
 
