@@ -752,8 +752,8 @@ and (orientation : portrait) {
 	}
 
 	.hometop h1 {
-	font-size: 40px;
-	line-height: 50px;
+	font-size: 50px;
+	line-height: 45px;
 	padding-bottom: 0px;
 	}
 
@@ -1067,6 +1067,13 @@ and (orientation : portrait) {
 	.footer hr {
 	border-top: 2px solid #72c1ad;
 	margin: 0;
+	}
+
+	.hometop h3 {
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 0px;
+	font-color: #d8d960;
 	}
 }
 
