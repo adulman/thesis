@@ -1246,6 +1246,19 @@ and (orientation : portrait) {
 	margin-right: 0px;
 	}
 
+	.aboutcontentdedication {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentdedication p{
+	margin-right: 0px;
+	font-size: 12px;
+	line-height: 18px;
+	}
+
 
 	h6 {
 	color: #ffffff;
