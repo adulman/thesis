@@ -782,7 +782,7 @@ and (orientation : portrait) {
 	padding-top: 0px;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	line-height: 40px;
+	line-height: 35px;
 	}
 
 	.hometop h1 {
@@ -801,7 +801,7 @@ and (orientation : portrait) {
 
     h5 {
 	font-size: 22px;
-	line-height: 30px;
+	line-height: 26px;
 	margin-top: 10px;
 	margin-bottom: 15px;
 	}
