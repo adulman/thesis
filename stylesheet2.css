@@ -828,7 +828,7 @@ and (orientation : portrait) {
 	font-weight: bold;
 	color: #ef6c62;
 	border: 2px solid #ef6c62;
-	margin: 3px;
+	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
@@ -840,7 +840,7 @@ and (orientation : portrait) {
 	font-weight: bold;
 	color: white;
 	border: 2px solid #ef6c62;
-	margin: 3px;
+	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
@@ -852,44 +852,44 @@ and (orientation : portrait) {
 	font-weight: bold;
 	color: white;
 	border: 2px solid #ef6c62;
-	margin: 5px;
+	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 
 	button.saturday {
 	background-color: white;
-	width: 85px;
+	width: 90px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: #d8d960;
 	border: 2px solid #d8d960;
-	margin: 3px;
+	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	button.saturday:hover{
 	background-color: #d8d960;
-	width: 85px;
+	width: 90px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #d8d960;
-	margin: 3px;
+	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	button.saturdayactive{
 	background-color: #d8d960;
-	width: 85px;
+	width: 90px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #d8d960;
-	margin: 3px;
+	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
@@ -901,7 +901,7 @@ and (orientation : portrait) {
 	font-weight: bold;
 	color: #72c1ad;
 	border: 2px solid #72c1ad;
-	margin: 3px;
+	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
@@ -913,7 +913,7 @@ and (orientation : portrait) {
 	font-weight: bold;
 	color: white;
 	border: 2px solid #72c1ad;
-	margin: 3px;
+	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
@@ -925,7 +925,7 @@ and (orientation : portrait) {
 	font-weight: bold;
 	color: white;
 	border: 2px solid #72c1ad;
-	margin: 3px;
+	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
