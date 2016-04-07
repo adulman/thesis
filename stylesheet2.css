@@ -1209,6 +1209,58 @@ and (orientation : portrait) {
 	.morecitiesarrow {
 		height: 30px;
 	}
+
+	.wtfisthis {
+	padding-top: 80px;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+
+	.wtfisthis p{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: 
+	}
+
+	.aboutcontent {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentcallout {
+	margin-right: 25px;
+	margin-left: 25px;
+	padding-bottom: 50px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 34px;
+	line-height: 42px;
+	color: #ef6c62;
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	}
+
+
+	h6 {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 28px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 25px;
+	padding-top: 350px;
+	padding-bottom: 20px;
+}
 }
 
 
