@@ -51,6 +51,12 @@ body {
 	margin-left: 100px;
 }
 
+.homecityallamerica {
+	text-align: center;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
 .homecityindividual {
 	display: inline-block;
 	margin-right: auto;
@@ -1156,6 +1162,13 @@ and (orientation : portrait) {
 	margin-right: 10px;
 	margin-left: 10px;
 	padding-top: 60px;
+	}
+
+	.homecityallamerica {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
 	}
 
 	.homecityindividual {
