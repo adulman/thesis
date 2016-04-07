@@ -1016,6 +1016,14 @@ and (orientation : portrait) {
 	padding-top: 350px;
 	padding-bottom: 20px;
 	}
+
+	.bottompagearrows img{
+	height: 25px;
+	}
+
+	.arrow {
+	display:none;
+	}
 }
 
 
