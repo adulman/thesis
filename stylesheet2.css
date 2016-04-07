@@ -751,6 +751,12 @@ and (orientation : portrait) {
 	line-height: 40px;
 	}
 
+	.hometop h1 {
+	font-size: 40px;
+	line-height: 50px;
+	padding-bottom: 0px;
+	}
+
 	span:last-of-type {
         display: block;
     }
@@ -764,6 +770,12 @@ and (orientation : portrait) {
 	line-height: 30px;
 	margin-top: 10px;
 	margin-bottom: 15px;
+	}
+
+	.hometop h5 {
+	font-size: 22px;
+	margin-bottom: 45px;
+	margin-top: 30px;
 	}
 
 	.arrow {
