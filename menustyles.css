@@ -228,7 +228,9 @@ body {
   border-left-color: transparent;
 }
 
-
+#cssmenu ul li.home {
+  display: none;
+}
 
 
 
@@ -318,7 +320,7 @@ body {
     border-top: 2px solid #72c1ad;
     border-bottom: 2px solid #72c1ad;
     right: 25px;
-    top: 18px;
+    top: 17px;
   }
   #cssmenu #menu-button::before {
     display: block;
@@ -328,10 +330,33 @@ body {
     width: 22px;
     border-top: 2px solid #72c1ad;
     right: 25px;
-    top: 28px;
+    top: 27px;
   }
   #cssmenu > ul > li.has-sub > a::after,
   #cssmenu ul ul li.has-sub > a::after {
     display: none;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 640px) {
+  #cssmenu > ul > li {
+    float: right;
+  }
+
+  #cssmenu > ul > li:first-child {
+    float: left;
   }
 }
