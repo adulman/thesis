@@ -93,8 +93,8 @@ body {
 }
 
 .hometop h3 {
-	margin-right: 300px;
-	margin-left: 300px;
+	margin-right: 400px;
+	margin-left: 400px;
 	margin-top: 0px;
 	font-color: #ef6c62;
 }
@@ -106,7 +106,7 @@ body {
 
 .hometop h5 {
 	margin-bottom: 45px;
-	margin-top: 65px;
+	margin-top: 40px;
 	color: #ef6c62;
 }
 .map {
