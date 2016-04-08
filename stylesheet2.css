@@ -5073,6 +5073,8 @@ and (max-device-width : 1100px)
 	padding-top: 20px;
 	text-align: center;
 	padding-bottom: 40px;
+	margin-right: auto;
+	margin-left: auto;
 	}
 
 	.map {
@@ -6637,8 +6639,8 @@ and (max-device-width : 800px)
 	}
 
 	.grid {
-	width: 220px;
-	height: 220px;
+	width: 200px;
+	height: 200px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-right: 5px;
@@ -6649,6 +6651,8 @@ and (max-device-width : 800px)
 	padding-top: 20px;
 	text-align: center;
 	padding-bottom: 40px;
+	margin-right: auto;
+	margin-left: auto;
 	}
 
 	.map {
@@ -8209,6 +8213,8 @@ and (max-device-width : 500px)
 	line-height: 28px;
 	margin-top: 15px;
 	margin-bottom: 15px;
+	margin-right: 30px;
+	margin-left: 30px;
 	}
 
 	.hometop h5 {
@@ -8237,8 +8243,8 @@ and (max-device-width : 500px)
 	}
 
 	.grid {
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-right: 5px;
@@ -8249,6 +8255,8 @@ and (max-device-width : 500px)
 	padding-top: 20px;
 	text-align: center;
 	padding-bottom: 40px;
+	margin-right: auto;
+	margin-left: auto;
 	}
 
 	.map {
@@ -8467,7 +8475,7 @@ and (max-device-width : 500px)
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
-	padding-top: 40px;
+	padding-top: 20px;
 	left: 100px;
 	right: 100px;
 	z-index: none;
@@ -8774,8 +8782,8 @@ and (max-device-width : 400px)
 	}
 
 	.grid {
-	width: 155px;
-	height: 155px;
+	width: 125px;
+	height: 125px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-right: 5px;
@@ -8786,6 +8794,8 @@ and (max-device-width : 400px)
 	padding-top: 20px;
 	text-align: center;
 	padding-bottom: 40px;
+	margin-right: auto;
+	margin-left: auto;
 	}
 
 	.map {
@@ -8932,8 +8942,8 @@ and (max-device-width : 400px)
 	}
 
 	.itinerary {
-	width: 100%;
-	padding-left: 25px;
+	width: 90%;
+	padding-left: 30px;
 	}
 
 	p {
@@ -8941,6 +8951,7 @@ and (max-device-width : 400px)
 	line-height: 20px;
 	margin-top: 8px;
 	width: 85%;
+	padding-right: 0px;
 	}
 
 	.instabanner {
@@ -8999,8 +9010,8 @@ and (max-device-width : 400px)
 	}
 
 	.instabannerimg {
-	height: 300px;
-	width: 300px;
+	height: 250px;
+	width:250px;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
@@ -9024,7 +9035,7 @@ and (max-device-width : 400px)
 	padding-left: 40px;
 	height: auto;
 	padding-right: 35px;
-	padding-top: 350px;
+	padding-top: 300px;
 	padding-bottom: 20px;
 	}
 
@@ -9313,6 +9324,8 @@ and (max-device-width : 300px)
 	padding-top: 20px;
 	text-align: center;
 	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
 	}
 
 	.map {
