@@ -779,23 +779,1598 @@ button.sundayactive {
 
 
 
-@media only screen 
-and (min-device-width : 400px) 
-and (max-device-width : 667px) 
-and (orientation : portrait) {
+
+
+
+
+
+
+
+
+@media only screen  
+and (max-device-width : 1100px) 
+{
 
 	.vectormap img {
-	height: 150px;
+	height: 260px;
 	width: 100%;
 	}
 
 	h1 {
-	font-size: 34px;
+	font-size: 65px;
 	text-align: center;
 	padding-top: 0px;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	line-height: 35px;
+	line-height: 70px;
+	}
+
+	.hometop h1 {
+	font-size: 50px;
+	line-height: 45px;
+	padding-bottom: 0px;
+	}
+
+    h5 {
+	font-size: 34px;
+	line-height: 40px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	}
+
+	.hometop h5 {
+	font-size: 22px;
+	margin-bottom: 25px;
+	margin-top: 30px;
+	background-color: #ef6c62;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	}
+
+	.header {
+	background-color: white;
+	color: #72c1ad;
+	height: auto;
+	width: 100%;
+	padding-top: 30px;
+	text-align: center;
+	}
+
+	.grid {
+	width: 280px;
+	height: 280px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 8px;
+	padding-left: 8px;
+	}
+
+	.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+	}
+
+	.map {
+	text-align: center;
+	width: 100%;
+	position: relative;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 0;
+	}
+
+	iframe {
+		width: 100%;
+		height: 640px;
+	}
+
+	h2 {
+	font-size: 40px;
+	margin-left: 100px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	}
+
+	.buttonrow {
+	padding-left: 100px;
+	}
+
+	button.friday {
+	background-color: white;
+	width: 150px;
+	height: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.friday:hover {
+	background-color: #ef6c62;
+	width: 150px;
+	height: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.fridayactive {
+	background-color: #ef6c62;
+	width: 150px;
+	height: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+
+	button.saturday {
+	background-color: white;
+	width: 170px;
+	height: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: #d8d960;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturday:hover{
+	background-color: #d8d960;
+	width: 170px;
+	height: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturdayactive{
+	background-color: #d8d960;
+	width: 170px;
+	height: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday {
+	background-color: white;
+	width: 150px;
+	height: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday:hover {
+	background-color: #72c1ad;
+	width: 150px;
+	height: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sundayactive {
+	background-color: #72c1ad;
+	width: 150px;
+	height: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	h3 {
+	color: #ef6c62;
+	font-size: 32px;
+	margin-top: 60px;
+	margin-bottom: 0;
+	line-height: 38px;
+	margin-right: 20px;
+	}
+
+	.itinerary {
+	width: 100%;
+	padding-left: 100px;
+	}
+
+	p {
+	font-size: 22px;
+	line-height: 32px;
+	margin-top: 15px;
+	width: 80%;
+	}
+
+	
+.instabanner {
+	background-color: #ef6c62;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: 240px;
+	z-index: 0;
+	position: relative;
+	margin-top: 160px;
+	margin-bottom: 160px;
+}
+
+.instabannerhome {
+	background-color: #72c1ad;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: 290px;
+	z-index: 0;
+	position: relative;
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+.instabannerhome h4 {
+	font-size: 35px;
+	line-height: 45px;
+}
+
+.instabannerpink {
+	background-color: #d8d960;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 240px;
+	z-index: 0;
+	position: relative;
+	margin-top: 130px;
+	margin-bottom: 130px;
+}
+
+.instabannerblue {
+	background-color: #72c1ad;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 240px;
+	z-index: 0;
+	position: relative;
+	margin-top: 130px;
+	margin-bottom: 130px;
+}
+
+.instabannerimg {
+	height: 400px;
+	width: 400px;
+	left: 80px;
+	z-index: 2;
+	position: absolute;
+	top: -80px;
+	padding-bottom: 20px;
+}
+
+h4 {
+	color: white;
+	font-size: 42px;
+	line-height: 50px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 520px;
+	height: 240px;
+	padding-right: 100px;
+}
+
+
+	.bottompagearrows img{
+	height: 38px;
+	}
+
+	.arrow {
+	display:none;
+	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 40px;
+	}
+
+	.footer {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 60px;
+	background-color: #ebebeb;
+	}
+
+	.footeramerica {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	background-color: #ebebeb;
+	}
+
+	.footer p{
+	font-size: 14px;
+	line-height: 22px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footeramerica p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footer hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.footeramerica hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.hometop h3 {
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 0px;
+	color: #d8d960;
+	font-size: 22px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 60px;
+	}
+
+	.homecityallamerica {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 25px;
+	text-align: left;
+	float: left;
+	padding-top: 50px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: left;
+	position: absolute;
+	}
+
+	.gridhome2 {
+	width: 250px;
+	height: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.morecitiesarrow {
+		height: 30px;
+	}
+
+	.wtfisthis {
+	padding-top: 20px;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+
+	.wtfisthis p{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: 
+	}
+
+	.aboutcontent {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentcallout {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 34px;
+	line-height: 42px;
+	color: #ef6c62;
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	}
+
+	.aboutcontentdedication {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentdedication p{
+	margin-right: 0px;
+	font-size: 12px;
+	line-height: 18px;
+	}
+
+
+	h6 {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 28px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 25px;
+	padding-top: 350px;
+	padding-bottom: 20px;
+	}
+
+	hr.wtf {
+		color: #ebebeb;
+		border: 1px solid;
+		margin-top: 0;
+		padding-top: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen  
+and (max-device-width : 1000px) 
+{
+
+	.vectormap img {
+	height: 240px;
+	width: 100%;
+	}
+
+	h1 {
+	font-size: 60px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 65px;
+	}
+
+	.hometop h1 {
+	font-size: 50px;
+	line-height: 45px;
+	padding-bottom: 0px;
+	}
+
+    h5 {
+	font-size: 34px;
+	line-height: 40px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	}
+
+	.hometop h5 {
+	font-size: 22px;
+	margin-bottom: 25px;
+	margin-top: 30px;
+	background-color: #ef6c62;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	}
+
+	.header {
+	background-color: white;
+	color: #72c1ad;
+	height: auto;
+	width: 100%;
+	padding-top: 30px;
+	text-align: center;
+	}
+
+	.grid {
+	width: 250px;
+	height: 250px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 8px;
+	padding-left: 8px;
+	}
+
+	.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+	}
+
+	.map {
+	text-align: center;
+	width: 100%;
+	position: relative;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 0;
+	}
+
+	iframe {
+		width: 100%;
+		height: 640px;
+	}
+
+	h2 {
+	font-size: 34px;
+	margin-left: 80px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	}
+
+	.buttonrow {
+	padding-left: 80px;
+	}
+
+	button.friday {
+	background-color: white;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.friday:hover {
+	background-color: #ef6c62;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.fridayactive {
+	background-color: #ef6c62;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+
+	button.saturday {
+	background-color: white;
+	width: 140px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #d8d960;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturday:hover{
+	background-color: #d8d960;
+	width: 140px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturdayactive{
+	background-color: #d8d960;
+	width: 140px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday {
+	background-color: white;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday:hover {
+	background-color: #72c1ad;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sundayactive {
+	background-color: #72c1ad;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	h3 {
+	color: #ef6c62;
+	font-size: 28px;
+	margin-top: 60px;
+	margin-bottom: 0;
+	line-height: 32px;
+	margin-right: 20px;
+	}
+
+	.itinerary {
+	width: 100%;
+	padding-left: 80px;
+	}
+
+	p {
+	font-size: 20px;
+	line-height: 30px;
+	margin-top: 15px;
+	width: 80%;
+	}
+
+	
+.instabanner {
+	background-color: #ef6c62;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: 240px;
+	z-index: 0;
+	position: relative;
+	margin-top: 130px;
+	margin-bottom: 130px;
+}
+
+.instabannerhome {
+	background-color: #72c1ad;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: 290px;
+	z-index: 0;
+	position: relative;
+	margin-top: 130px;
+	margin-bottom: 130px;
+}
+
+.instabannerhome h4 {
+	font-size: 35px;
+	line-height: 45px;
+}
+
+.instabannerpink {
+	background-color: #d8d960;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 240px;
+	z-index: 0;
+	position: relative;
+	margin-top: 130px;
+	margin-bottom: 130px;
+}
+
+.instabannerblue {
+	background-color: #72c1ad;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 240px;
+	z-index: 0;
+	position: relative;
+	margin-top: 130px;
+	margin-bottom: 130px;
+}
+
+.instabannerimg {
+	height: 350px;
+	width: 350px;
+	left: 80px;
+	z-index: 2;
+	position: absolute;
+	top: -55px;
+	padding-bottom: 20px;
+}
+
+h4 {
+	color: white;
+	font-size: 38px;
+	line-height: 48px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 450px;
+	height: 240px;
+	padding-right: 75px;
+}
+
+
+	.bottompagearrows img{
+	height: 34px;
+	}
+
+	.arrow {
+	display:none;
+	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 40px;
+	}
+
+	.footer {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 60px;
+	background-color: #ebebeb;
+	}
+
+	.footeramerica {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	background-color: #ebebeb;
+	}
+
+	.footer p{
+	font-size: 14px;
+	line-height: 22px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footeramerica p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footer hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.footeramerica hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.hometop h3 {
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 0px;
+	color: #d8d960;
+	font-size: 22px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 60px;
+	}
+
+	.homecityallamerica {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 25px;
+	text-align: left;
+	float: left;
+	padding-top: 50px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: left;
+	position: absolute;
+	}
+
+	.gridhome2 {
+	width: 250px;
+	height: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.morecitiesarrow {
+		height: 30px;
+	}
+
+	.wtfisthis {
+	padding-top: 20px;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+
+	.wtfisthis p{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: 
+	}
+
+	.aboutcontent {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentcallout {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 34px;
+	line-height: 42px;
+	color: #ef6c62;
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	}
+
+	.aboutcontentdedication {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentdedication p{
+	margin-right: 0px;
+	font-size: 12px;
+	line-height: 18px;
+	}
+
+
+	h6 {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 28px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 25px;
+	padding-top: 350px;
+	padding-bottom: 20px;
+	}
+
+	hr.wtf {
+		color: #ebebeb;
+		border: 1px solid;
+		margin-top: 0;
+		padding-top: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen  
+and (max-device-width : 900px) 
+{
+
+	.vectormap img {
+	height: 210px;
+	width: 100%;
+	}
+
+	h1 {
+	font-size: 50px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 55px;
+	}
+
+	.hometop h1 {
+	font-size: 50px;
+	line-height: 45px;
+	padding-bottom: 0px;
+	}
+
+    h5 {
+	font-size: 28px;
+	line-height: 32px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	}
+
+	.hometop h5 {
+	font-size: 22px;
+	margin-bottom: 25px;
+	margin-top: 30px;
+	background-color: #ef6c62;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	}
+
+	.header {
+	background-color: white;
+	color: #72c1ad;
+	height: auto;
+	width: 100%;
+	padding-top: 30px;
+	text-align: center;
+	}
+
+	.grid {
+	width: 250px;
+	height: 250px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 8px;
+	padding-left: 8px;
+	}
+
+	.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+	}
+
+	.map {
+	text-align: center;
+	width: 100%;
+	position: relative;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 0;
+	}
+
+	iframe {
+		width: 100%;
+		height: 640px;
+	}
+
+	h2 {
+	font-size: 34px;
+	margin-left: 80px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	}
+
+	.buttonrow {
+	padding-left: 80px;
+	}
+
+	button.friday {
+	background-color: white;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.friday:hover {
+	background-color: #ef6c62;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.fridayactive {
+	background-color: #ef6c62;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+
+	button.saturday {
+	background-color: white;
+	width: 140px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #d8d960;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturday:hover{
+	background-color: #d8d960;
+	width: 140px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturdayactive{
+	background-color: #d8d960;
+	width: 140px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday {
+	background-color: white;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday:hover {
+	background-color: #72c1ad;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sundayactive {
+	background-color: #72c1ad;
+	width: 130px;
+	height: 40px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	h3 {
+	color: #ef6c62;
+	font-size: 28px;
+	margin-top: 60px;
+	margin-bottom: 0;
+	line-height: 32px;
+	margin-right: 20px;
+	}
+
+	.itinerary {
+	width: 100%;
+	padding-left: 80px;
+	}
+
+	p {
+	font-size: 20px;
+	line-height: 30px;
+	margin-top: 15px;
+	width: 80%;
+	}
+
+	
+.instabanner {
+	background-color: #ef6c62;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: 240px;
+	z-index: 0;
+	position: relative;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.instabannerhome {
+	background-color: #72c1ad;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: 290px;
+	z-index: 0;
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.instabannerhome h4 {
+	font-size: 35px;
+	line-height: 45px;
+}
+
+.instabannerpink {
+	background-color: #d8d960;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 240px;
+	z-index: 0;
+	position: relative;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.instabannerblue {
+	background-color: #72c1ad;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 240px;
+	z-index: 0;
+	position: relative;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.instabannerimg {
+	height: 300px;
+	width: 300px;
+	left: 60px;
+	z-index: 2;
+	position: absolute;
+	top: -30px;
+	padding-bottom: 20px;
+}
+
+h4 {
+	color: white;
+	font-size: 38px;
+	line-height: 48px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 400px;
+	height: 240px;
+	padding-right: 75px;
+}
+
+
+	.bottompagearrows img{
+	height: 34px;
+	}
+
+	.arrow {
+	display:none;
+	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 40px;
+	}
+
+	.footer {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 60px;
+	background-color: #ebebeb;
+	}
+
+	.footeramerica {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	background-color: #ebebeb;
+	}
+
+	.footer p{
+	font-size: 14px;
+	line-height: 22px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footeramerica p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footer hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.footeramerica hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.hometop h3 {
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 0px;
+	color: #d8d960;
+	font-size: 22px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 60px;
+	}
+
+	.homecityallamerica {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 25px;
+	text-align: left;
+	float: left;
+	padding-top: 50px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: left;
+	position: absolute;
+	}
+
+	.gridhome2 {
+	width: 250px;
+	height: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.morecitiesarrow {
+		height: 30px;
+	}
+
+	.wtfisthis {
+	padding-top: 20px;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+
+	.wtfisthis p{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: 
+	}
+
+	.aboutcontent {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentcallout {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 34px;
+	line-height: 42px;
+	color: #ef6c62;
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	}
+
+	.aboutcontentdedication {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentdedication p{
+	margin-right: 0px;
+	font-size: 12px;
+	line-height: 18px;
+	}
+
+
+	h6 {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 28px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 25px;
+	padding-top: 350px;
+	padding-bottom: 20px;
+	}
+
+	hr.wtf {
+		color: #ebebeb;
+		border: 1px solid;
+		margin-top: 0;
+		padding-top: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen  
+and (max-device-width : 800px) 
+{
+
+	.vectormap img {
+	height: 180px;
+	width: 100%;
+	}
+
+	h1 {
+	font-size: 50px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 55px;
 	}
 
 	.hometop h1 {
@@ -813,9 +2388,1073 @@ and (orientation : portrait) {
     }
 
     h5 {
+	font-size: 28px;
+	line-height: 32px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	}
+
+	.hometop h5 {
 	font-size: 22px;
-	line-height: 26px;
+	margin-bottom: 25px;
+	margin-top: 30px;
+	background-color: #ef6c62;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	}
+
+	.header {
+	background-color: white;
+	color: #72c1ad;
+	height: auto;
+	width: 100%;
+	padding-top: 30px;
+	text-align: center;
+	}
+
+	.grid {
+	width: 220px;
+	height: 220px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	}
+
+	.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+	}
+
+	.map {
+	text-align: center;
+	width: 100%;
+	position: relative;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 0;
+	}
+
+	iframe {
+		width: 100%;
+		height: 600px;
+	}
+
+	h2 {
+	font-size: 28px;
+	margin-left: 60px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	}
+
+	.buttonrow {
+	padding-left: 60px;
+	}
+
+	button.friday {
+	background-color: white;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.friday:hover {
+	background-color: #ef6c62;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.fridayactive {
+	background-color: #ef6c62;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+
+	button.saturday {
+	background-color: white;
+	width: 120px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #d8d960;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturday:hover{
+	background-color: #d8d960;
+	width: 120px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturdayactive{
+	background-color: #d8d960;
+	width: 120px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday {
+	background-color: white;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday:hover {
+	background-color: #72c1ad;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sundayactive {
+	background-color: #72c1ad;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	h3 {
+	color: #ef6c62;
+	font-size: 24px;
+	margin-top: 50px;
+	margin-bottom: 0;
+	line-height: 30px;
+	margin-right: 20px;
+	}
+
+	.itinerary {
+	width: 100%;
+	padding-left: 60px;
+	}
+
+	p {
+	font-size: 18px;
+	line-height: 27px;
 	margin-top: 10px;
+	width: 80%;
+	}
+
+	
+.instabanner {
+	background-color: #ef6c62;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: 290px;
+	z-index: 0;
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.instabannerhome {
+	background-color: #72c1ad;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: 290px;
+	z-index: 0;
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.instabannerhome h4 {
+	font-size: 35px;
+	line-height: 45px;
+}
+
+.instabannerpink {
+	background-color: #d8d960;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 290px;
+	z-index: 0;
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.instabannerblue {
+	background-color: #72c1ad;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: 290px;
+	z-index: 0;
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.instabannerimg {
+	height: 250px;
+	width: 250px;
+	left: 60px;
+	z-index: 2;
+	position: absolute;
+	top: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h4 {
+	color: white;
+	font-size: 34px;
+	line-height: 45px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 330px;
+	height: 290px;
+	padding-right: 75px;
+}
+
+
+	.bottompagearrows img{
+	height: 30px;
+	}
+
+	.arrow {
+	display:none;
+	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 30px;
+	}
+
+	.footer {
+	height: 80px;
+	width: 100%;
+	text-align: center;
+	margin-top: 40px;
+	background-color: #ebebeb;
+	}
+
+	.footeramerica {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	background-color: #ebebeb;
+	}
+
+	.footer p{
+	font-size: 12px;
+	line-height: 20px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footeramerica p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footer hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.footeramerica hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.hometop h3 {
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 0px;
+	color: #d8d960;
+	font-size: 22px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 60px;
+	}
+
+	.homecityallamerica {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 25px;
+	text-align: left;
+	float: left;
+	padding-top: 50px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: left;
+	position: absolute;
+	}
+
+	.gridhome2 {
+	width: 250px;
+	height: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.morecitiesarrow {
+		height: 30px;
+	}
+
+	.wtfisthis {
+	padding-top: 20px;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+
+	.wtfisthis p{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: 
+	}
+
+	.aboutcontent {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentcallout {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 34px;
+	line-height: 42px;
+	color: #ef6c62;
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	}
+
+	.aboutcontentdedication {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentdedication p{
+	margin-right: 0px;
+	font-size: 12px;
+	line-height: 18px;
+	}
+
+
+	h6 {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 28px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 25px;
+	padding-top: 350px;
+	padding-bottom: 20px;
+	}
+
+	hr.wtf {
+		color: #ebebeb;
+		border: 1px solid;
+		margin-top: 0;
+		padding-top: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen  
+and (max-device-width : 700px) 
+{
+
+	.vectormap img {
+	height: 180px;
+	width: 100%;
+	}
+
+	h1 {
+	font-size: 50px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 55px;
+	}
+
+	.hometop h1 {
+	font-size: 50px;
+	line-height: 45px;
+	padding-bottom: 0px;
+	}
+
+	span:last-of-type {
+        display: block;
+    }
+
+    span:nth-of-type(2) {
+        display: block;
+    }
+
+    h5 {
+	font-size: 28px;
+	line-height: 32px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	}
+
+	.hometop h5 {
+	font-size: 22px;
+	margin-bottom: 25px;
+	margin-top: 30px;
+	background-color: #ef6c62;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	}
+
+	.header {
+	background-color: white;
+	color: #72c1ad;
+	height: auto;
+	width: 100%;
+	padding-top: 30px;
+	text-align: center;
+	}
+
+	.grid {
+	width: 180px;
+	height: 180px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	}
+
+	.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+	}
+
+	.map {
+	text-align: center;
+	width: 100%;
+	position: relative;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 0;
+	}
+
+	iframe {
+		width: 100%;
+		height: 600px;
+	}
+
+	h2 {
+	font-size: 28px;
+	margin-left: 60px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	}
+
+	.buttonrow {
+	padding-left: 60px;
+	}
+
+	button.friday {
+	background-color: white;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.friday:hover {
+	background-color: #ef6c62;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.fridayactive {
+	background-color: #ef6c62;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+
+	button.saturday {
+	background-color: white;
+	width: 120px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #d8d960;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturday:hover{
+	background-color: #d8d960;
+	width: 120px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturdayactive{
+	background-color: #d8d960;
+	width: 120px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday {
+	background-color: white;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday:hover {
+	background-color: #72c1ad;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sundayactive {
+	background-color: #72c1ad;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	h3 {
+	color: #ef6c62;
+	font-size: 24px;
+	margin-top: 50px;
+	margin-bottom: 0;
+	line-height: 30px;
+	margin-right: 20px;
+	}
+
+	.itinerary {
+	width: 100%;
+	padding-left: 60px;
+	}
+
+	p {
+	font-size: 18px;
+	line-height: 27px;
+	margin-top: 10px;
+	width: 80%;
+	}
+
+	.instabanner {
+	background-color: #ef6c62;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerpink {
+	background-color: #d8d960;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerblue {
+	background-color: #72c1ad;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerhome {
+	background-color: #72c1ad;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerhome h4 {
+	font-size: 22px;
+	line-height: 30px;
+	}
+
+	.instabannerimg {
+	height: 370px;
+	width: 370px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 40px;
+	left: 100px;
+	right: 100px;
+	z-index: none;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	}
+
+	h4 {
+	color: white;
+	font-size: 34px;
+	line-height: 48px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 85px;
+	height: auto;
+	padding-right: 85px;
+	padding-top: 440px;
+	padding-bottom: 30px;
+	}
+
+	.bottompagearrows img{
+	height: 30px;
+	}
+
+	.arrow {
+	display:none;
+	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 30px;
+	}
+
+	.footer {
+	height: 80px;
+	width: 100%;
+	text-align: center;
+	margin-top: 40px;
+	background-color: #ebebeb;
+	}
+
+	.footeramerica {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	background-color: #ebebeb;
+	}
+
+	.footer p{
+	font-size: 12px;
+	line-height: 20px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footeramerica p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footer hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.footeramerica hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.hometop h3 {
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 0px;
+	color: #d8d960;
+	font-size: 22px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 60px;
+	}
+
+	.homecityallamerica {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 25px;
+	text-align: left;
+	float: left;
+	padding-top: 50px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: left;
+	position: absolute;
+	}
+
+	.gridhome2 {
+	width: 250px;
+	height: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.morecitiesarrow {
+		height: 30px;
+	}
+
+	.wtfisthis {
+	padding-top: 20px;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+
+	.wtfisthis p{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: 
+	}
+
+	.aboutcontent {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentcallout {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 34px;
+	line-height: 42px;
+	color: #ef6c62;
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	}
+
+	.aboutcontentdedication {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentdedication p{
+	margin-right: 0px;
+	font-size: 12px;
+	line-height: 18px;
+	}
+
+
+	h6 {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 28px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 25px;
+	padding-top: 350px;
+	padding-bottom: 20px;
+	}
+
+	hr.wtf {
+		color: #ebebeb;
+		border: 1px solid;
+		margin-top: 0;
+		padding-top: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen  
+and (max-device-width : 600px) 
+{
+
+	.vectormap img {
+	height: 150px;
+	width: 100%;
+	}
+
+	h1 {
+	font-size: 45px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 45px;
+	}
+
+	.hometop h1 {
+	font-size: 50px;
+	line-height: 45px;
+	padding-bottom: 0px;
+	}
+
+	span:last-of-type {
+        display: block;
+    }
+
+    span:nth-of-type(2) {
+        display: block;
+    }
+
+    h5 {
+	font-size: 24px;
+	line-height: 28px;
+	margin-top: 20px;
 	margin-bottom: 15px;
 	}
 
@@ -845,8 +3484,544 @@ and (orientation : portrait) {
 	}
 
 	.grid {
-	width: 150px;
+	width: 220px;
+	height: 220px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 8px;
+	padding-left: 8px;
+	}
+
+	.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+	}
+
+	.map {
+	text-align: center;
+	width: 100%;
+	position: relative;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 0;
+	}
+
+	iframe {
+		width: 100%;
+		height: 600px;
+	}
+
+	h2 {
+	font-size: 24px;
+	margin-left: 40px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	}
+
+	.buttonrow {
+	padding-left: 40px;
+	}
+
+	button.friday {
+	background-color: white;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.friday:hover {
+	background-color: #ef6c62;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.fridayactive {
+	background-color: #ef6c62;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+
+	button.saturday {
+	background-color: white;
+	width: 120px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #d8d960;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturday:hover{
+	background-color: #d8d960;
+	width: 120px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturdayactive{
+	background-color: #d8d960;
+	width: 120px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday {
+	background-color: white;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday:hover {
+	background-color: #72c1ad;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sundayactive {
+	background-color: #72c1ad;
+	width: 110px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	h3 {
+	color: #ef6c62;
+	font-size: 24px;
+	margin-top: 40px;
+	margin-bottom: 0;
+	line-height: 30px;
+	margin-right: 20px;
+	}
+
+	.itinerary {
+	width: 100%;
+	padding-left: 40px;
+	}
+
+	p {
+	font-size: 18px;
+	line-height: 25px;
+	margin-top: 10px;
+	width: 85%;
+	}
+
+	.instabanner {
+	background-color: #ef6c62;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerpink {
+	background-color: #d8d960;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerblue {
+	background-color: #72c1ad;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerhome {
+	background-color: #72c1ad;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerhome h4 {
+	font-size: 22px;
+	line-height: 30px;
+	}
+
+	.instabannerimg {
+	height: 370px;
+	width: 370px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 40px;
+	left: 100px;
+	right: 100px;
+	z-index: none;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	}
+
+	h4 {
+	color: white;
+	font-size: 34px;
+	line-height: 48px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 85px;
+	height: auto;
+	padding-right: 85px;
+	padding-top: 440px;
+	padding-bottom: 30px;
+	}
+
+	.bottompagearrows img{
+	height: 30px;
+	}
+
+	.arrow {
+	display:none;
+	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 30px;
+	}
+
+	.footer {
+	height: 80px;
+	width: 100%;
+	text-align: center;
+	margin-top: 40px;
+	background-color: #ebebeb;
+	}
+
+	.footeramerica {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	background-color: #ebebeb;
+	}
+
+	.footer p{
+	font-size: 12px;
+	line-height: 20px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footeramerica p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footer hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.footeramerica hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.hometop h3 {
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 0px;
+	color: #d8d960;
+	font-size: 22px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 60px;
+	}
+
+	.homecityallamerica {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 25px;
+	text-align: left;
+	float: left;
+	padding-top: 50px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: left;
+	position: absolute;
+	}
+
+	.gridhome2 {
+	width: 250px;
+	height: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.morecitiesarrow {
+		height: 30px;
+	}
+
+	.wtfisthis {
+	padding-top: 20px;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+
+	.wtfisthis p{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: 
+	}
+
+	.aboutcontent {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentcallout {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 34px;
+	line-height: 42px;
+	color: #ef6c62;
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	}
+
+	.aboutcontentdedication {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentdedication p{
+	margin-right: 0px;
+	font-size: 12px;
+	line-height: 18px;
+	}
+
+
+	h6 {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 28px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 25px;
+	padding-top: 350px;
+	padding-bottom: 20px;
+	}
+
+	hr.wtf {
+		color: #ebebeb;
+		border: 1px solid;
+		margin-top: 0;
+		padding-top: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen  
+and (max-device-width : 500px) 
+{
+
+	.vectormap img {
 	height: 150px;
+	width: 100%;
+	}
+
+	h1 {
+	font-size: 40px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 40px;
+	}
+
+	.hometop h1 {
+	font-size: 50px;
+	line-height: 45px;
+	padding-bottom: 0px;
+	}
+
+	span:last-of-type {
+        display: block;
+    }
+
+    span:nth-of-type(2) {
+        display: block;
+    }
+
+    h5 {
+	font-size: 24px;
+	line-height: 28px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	}
+
+	.hometop h5 {
+	font-size: 22px;
+	margin-bottom: 25px;
+	margin-top: 30px;
+	background-color: #ef6c62;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	}
+
+	.header {
+	background-color: white;
+	color: #72c1ad;
+	height: auto;
+	width: 100%;
+	padding-top: 30px;
+	text-align: center;
+	}
+
+	.grid {
+	width: 200px;
+	height: 200px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-right: 5px;
@@ -870,131 +4045,132 @@ and (orientation : portrait) {
 
 	iframe {
 		width: 100%;
+		height: 600px;
 	}
 
 	h2 {
-	font-size: 22px;
-	margin-left: 20px;
+	font-size: 24px;
+	margin-left: 25px;
 	margin-bottom: 10px;
 	padding-top: 20px;
 	}
 
 	.buttonrow {
-	padding-left: 20px;
+	padding-left: 25px;
 	}
 
 	button.friday {
 	background-color: white;
-	width: 90px;
+	width: 100px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: #ef6c62;
 	border: 2px solid #ef6c62;
-	margin: 2px;
+	margin: 3px;
 	transition: all 0.5s ease;
 	}
 
 	button.friday:hover {
 	background-color: #ef6c62;
-	width: 90px;
+	width: 100px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #ef6c62;
-	margin: 2px;
+	margin: 3px;
 	transition: all 0.5s ease;
 	}
 
 	button.fridayactive {
 	background-color: #ef6c62;
-	width: 90px;
+	width: 100px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #ef6c62;
-	margin: 2px;
+	margin: 3px;
 	transition: all 0.5s ease;
 	}
 
 
 	button.saturday {
 	background-color: white;
-	width: 100px;
+	width: 110px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: #d8d960;
 	border: 2px solid #d8d960;
-	margin: 2px;
+	margin: 3px;
 	transition: all 0.5s ease;
 	}
 
 	button.saturday:hover{
 	background-color: #d8d960;
-	width: 100px;
+	width: 110px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #d8d960;
-	margin: 2px;
+	margin: 3px;
 	transition: all 0.5s ease;
 	}
 
 	button.saturdayactive{
 	background-color: #d8d960;
-	width: 100px;
+	width: 110px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #d8d960;
-	margin: 2px;
+	margin: 3px;
 	transition: all 0.5s ease;
 	}
 
 	button.sunday {
 	background-color: white;
-	width: 90px;
+	width: 100px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: #72c1ad;
 	border: 2px solid #72c1ad;
-	margin: 2px;
+	margin: 3px;
 	transition: all 0.5s ease;
 	}
 
 	button.sunday:hover {
 	background-color: #72c1ad;
-	width: 90px;
+	width: 100px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #72c1ad;
-	margin: 2px;
+	margin: 3px;
 	transition: all 0.5s ease;
 	}
 
 	button.sundayactive {
 	background-color: #72c1ad;
-	width: 90px;
+	width: 100px;
 	height: 30px;
 	font-size: 16px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #72c1ad;
-	margin: 2px;
+	margin: 3px;
 	transition: all 0.5s ease;
 	}
 
 	h3 {
 	color: #ef6c62;
-	font-size: 22px;
+	font-size: 24px;
 	margin-top: 35px;
 	margin-bottom: 0;
 	line-height: 30px;
@@ -1069,12 +4245,12 @@ and (orientation : portrait) {
 	}
 
 	.instabannerimg {
-	height: 300px;
-	width: 300px;
+	height: 370px;
+	width: 370px;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
-	padding-top: 30px;
+	padding-top: 40px;
 	left: 100px;
 	right: 100px;
 	z-index: none;
@@ -1086,15 +4262,15 @@ and (orientation : portrait) {
 	h4 {
 	color: white;
 	font-size: 34px;
-	line-height: 40px;
+	line-height: 48px;
 	z-index: 1;
 	position: relative;
 	vertical-align: middle;
 	display: table-cell;
-	padding-left: 35px;
+	padding-left: 45px;
 	height: auto;
 	padding-right: 35px;
-	padding-top: 350px;
+	padding-top: 420px;
 	padding-bottom: 20px;
 	}
 
@@ -1317,9 +4493,8 @@ and (orientation : portrait) {
 
 
 @media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 568px) 
-and (orientation : portrait) { 
+and (max-device-width : 400px) 
+{ 
 
 	.vectormap img {
 	height: 150px;
@@ -1382,8 +4557,8 @@ and (orientation : portrait) {
 	}
 
 	.grid {
-	width: 130px;
-	height: 130px;
+	width: 155px;
+	height: 155px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-right: 5px;
@@ -1407,51 +4582,52 @@ and (orientation : portrait) {
 
 	iframe {
 		width: 100%;
+		height: 500px;
 	}
 
 	h2 {
-	font-size: 20px;
-	margin-left: 20px;
+	font-size: 22px;
+	margin-left: 25px;
 	margin-bottom: 5px;
 	padding-top: 20px;
 	}
 
 	.buttonrow {
-	padding-left: 20px;
+	padding-left: 25px;
 	}
 
 	button.friday {
 	background-color: white;
-	width: 70px;
+	width: 80px;
 	height: 30px;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	color: #ef6c62;
-	border: 1px solid #ef6c62;
+	border: 2px solid #ef6c62;
 	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	button.friday:hover {
 	background-color: #ef6c62;
-	width: 70px;
+	width: 80px;
 	height: 30px;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	color: white;
-	border: 1px solid #ef6c62;
+	border: 2px solid #ef6c62;
 	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	button.fridayactive {
 	background-color: #ef6c62;
-	width: 70px;
+	width: 80px;
 	height: 30px;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	color: white;
-	border: 1px solid #ef6c62;
+	border: 2px solid #ef6c62;
 	margin: 2px;
 	transition: all 0.5s ease;
 	}
@@ -1459,83 +4635,83 @@ and (orientation : portrait) {
 
 	button.saturday {
 	background-color: white;
-	width: 80px;
+	width: 100px;
 	height: 30px;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	color: #d8d960;
-	border: 1px solid #d8d960;
+	border: 2px solid #d8d960;
 	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	button.saturday:hover{
 	background-color: #d8d960;
-	width: 80px;
+	width: 100px;
 	height: 30px;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	color: white;
-	border: 1px solid #d8d960;
+	border: 2px solid #d8d960;
 	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	button.saturdayactive{
 	background-color: #d8d960;
-	width: 80px;
+	width: 100px;
 	height: 30px;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	color: white;
-	border: 1px solid #d8d960;
+	border: 2px solid #d8d960;
 	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	button.sunday {
 	background-color: white;
-	width: 70px;
+	width: 90px;
 	height: 30px;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	color: #72c1ad;
-	border: 1px solid #72c1ad;
+	border: 2px solid #72c1ad;
 	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	button.sunday:hover {
 	background-color: #72c1ad;
-	width: 70px;
+	width: 90px;
 	height: 30px;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	color: white;
-	border: 1px solid #72c1ad;
+	border: 2px solid #72c1ad;
 	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	button.sundayactive {
 	background-color: #72c1ad;
-	width: 70px;
+	width: 90px;
 	height: 30px;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: bold;
 	color: white;
-	border: 1px solid #72c1ad;
+	border: 2px solid #72c1ad;
 	margin: 2px;
 	transition: all 0.5s ease;
 	}
 
 	h3 {
 	color: #ef6c62;
-	font-size: 20px;
+	font-size: 22px;
 	margin-top: 35px;
 	margin-bottom: 0;
-	line-height: 24px;
-	margin-right: 20px;
+	line-height: 26px;
+	margin-right: 40px;
 	}
 
 	.itinerary {
@@ -1606,8 +4782,8 @@ and (orientation : portrait) {
 	}
 
 	.instabannerimg {
-	height: 250px;
-	width: 250px;
+	height: 300px;
+	width: 300px;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
@@ -1628,10 +4804,10 @@ and (orientation : portrait) {
 	position: relative;
 	vertical-align: middle;
 	display: table-cell;
-	padding-left: 35px;
+	padding-left: 40px;
 	height: auto;
 	padding-right: 35px;
-	padding-top: 300px;
+	padding-top: 350px;
 	padding-bottom: 20px;
 	}
 
@@ -1843,12 +5019,9 @@ and (orientation : portrait) {
 
 
 
-
-
-
-@media only screen 
-and (max-device-width : 319px) 
-and (orientation : portrait) { 
+@media only screen
+and (max-device-width : 300px) 
+{ 
 
 	.vectormap img {
 	height: 100px;
@@ -1856,7 +5029,7 @@ and (orientation : portrait) {
 	}
 
 	h1 {
-	font-size: 30px;
+	font-size: 20px;
 	text-align: center;
 	padding-top: 0px;
 	margin-top: 0px;
@@ -1936,7 +5109,7 @@ and (orientation : portrait) {
 
 	iframe {
 		width: 100%;
-		height: 500px;
+		height: 450px;
 	}
 
 	h2 {
@@ -2077,7 +5250,7 @@ and (orientation : portrait) {
 	font-size: 12px;
 	line-height: 17px;
 	margin-top: 5px;
-	width: 85%;
+	width: 80%;
 	}
 
 	.instabanner {
@@ -2136,8 +5309,8 @@ and (orientation : portrait) {
 	}
 
 	.instabannerimg {
-	height: 250px;
-	width: 250px;
+	height: 230px;
+	width: 230px;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
@@ -2158,10 +5331,10 @@ and (orientation : portrait) {
 	position: relative;
 	vertical-align: middle;
 	display: table-cell;
-	padding-left: 35px;
+	padding-left: 30px;
 	height: auto;
 	padding-right: 35px;
-	padding-top: 300px;
+	padding-top: 280px;
 	padding-bottom: 20px;
 	}
 
@@ -2366,3 +5539,1070 @@ and (orientation : portrait) {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen 
+and (max-device-width : 200px) 
+{ 
+
+	.vectormap img {
+	height: 80px;
+	width: 100%;
+	}
+
+	h1 {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 25px;
+	}
+
+	.hometop h1 {
+	font-size: 50px;
+	line-height: 45px;
+	padding-bottom: 0px;
+	}
+
+	span:last-of-type {
+        display: block;
+    }
+
+    span:nth-of-type(2) {
+        display: block;
+    }
+
+    h5 {
+	font-size: 14px;
+	line-height: 17px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-right: 10px;
+	margin-left: 10px;
+	}
+
+	.hometop h5 {
+	font-size: 22px;
+	margin-bottom: 25px;
+	margin-top: 30px;
+	background-color: #ef6c62;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	}
+
+	.header {
+	background-color: white;
+	color: #72c1ad;
+	height: auto;
+	width: 100%;
+	padding-top: 30px;
+	text-align: center;
+	}
+
+	.grid {
+	width: 140px;
+	height: 140px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-right: 3px;
+	padding-left: 3px;
+	}
+
+	.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 20px;
+	}
+
+	.map {
+	text-align: center;
+	width: 100%;
+	position: relative;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 0;
+	}
+
+	iframe {
+		width: 100%;
+		height: 400px;
+	}
+
+	h2 {
+	font-size: 14px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+	padding-top: 20px;
+	}
+
+	.buttonrow {
+	padding-left: 16px;
+	}
+
+	button.friday {
+	background-color: white;
+	width: 100px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #ef6c62;
+	border: 2px solid #ef6c62;
+	margin: 4px;
+	transition: all 0.5s ease;
+	}
+
+	button.friday:hover {
+	background-color: #ef6c62;
+	width: 100px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 4px;
+	transition: all 0.5s ease;
+	}
+
+	button.fridayactive {
+	background-color: #ef6c62;
+	width: 100px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #ef6c62;
+	margin: 4px;
+	transition: all 0.5s ease;
+	}
+
+
+	button.saturday {
+	background-color: white;
+	width: 100px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #d8d960;
+	border: 2px solid #d8d960;
+	margin: 4px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturday:hover{
+	background-color: #d8d960;
+	width: 100px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 4px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturdayactive{
+	background-color: #d8d960;
+	width: 100px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #d8d960;
+	margin: 4px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday {
+	background-color: white;
+	width: 100px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #72c1ad;
+	border: 2px solid #72c1ad;
+	margin: 4px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday:hover {
+	background-color: #72c1ad;
+	width: 100px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 4px;
+	transition: all 0.5s ease;
+	}
+
+	button.sundayactive {
+	background-color: #72c1ad;
+	width: 100px;
+	height: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #72c1ad;
+	margin: 4px;
+	transition: all 0.5s ease;
+	}
+
+	h3 {
+	color: #ef6c62;
+	font-size: 14px;
+	margin-top: 25px;
+	margin-bottom: 0;
+	line-height: 18px;
+	margin-right: 35px;
+	margin-left: 0px;
+	}
+
+	.itinerary {
+	width: 100%;
+	padding-left: 25px;
+	}
+
+	p {
+	font-size: 10px;
+	line-height: 15px;
+	margin-top: 5px;
+	width: 80%;
+	}
+
+	.instabanner {
+	background-color: #ef6c62;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerpink {
+	background-color: #d8d960;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerblue {
+	background-color: #72c1ad;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerhome {
+	background-color: #72c1ad;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerhome h4 {
+	font-size: 22px;
+	line-height: 30px;
+	}
+
+	.instabannerimg {
+	height: 150px;
+	width: 150px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	left: 100px;
+	right: 100px;
+	z-index: none;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	}
+
+	h4 {
+	color: white;
+	font-size: 20px;
+	line-height: 24px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 30px;
+	padding-top: 180px;
+	padding-bottom: 20px;
+	}
+
+	.bottompagearrows img{
+	height: 15px;
+	}
+
+	.arrow {
+	display:none;
+	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 20px;
+	}
+
+	.footer {
+	height: 45px;
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+	background-color: #ebebeb;
+	}
+
+	.footeramerica {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	background-color: #ebebeb;
+	}
+
+	.footer p{
+	font-size: 6px;
+	line-height: 10px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footeramerica p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footer hr {
+	border-top: 1px solid #72c1ad;
+	margin: 0;
+	}
+
+	.footeramerica hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.hometop h3 {
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 0px;
+	color: #d8d960;
+	font-size: 22px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 60px;
+	}
+
+	.homecityallamerica {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 25px;
+	text-align: left;
+	float: left;
+	padding-top: 50px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: left;
+	position: absolute;
+	}
+
+	.gridhome2 {
+	width: 250px;
+	height: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.morecitiesarrow {
+		height: 30px;
+	}
+
+	.wtfisthis {
+	padding-top: 20px;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+
+	.wtfisthis p{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: 
+	}
+
+	.aboutcontent {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentcallout {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 34px;
+	line-height: 42px;
+	color: #ef6c62;
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	}
+
+	.aboutcontentdedication {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentdedication p{
+	margin-right: 0px;
+	font-size: 12px;
+	line-height: 18px;
+	}
+
+
+	h6 {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 28px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 25px;
+	padding-top: 350px;
+	padding-bottom: 20px;
+	}
+
+	hr.wtf {
+		color: #ebebeb;
+		border: 1px solid;
+		margin-top: 0;
+		padding-top: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen 
+and (max-device-width : 100px) 
+{ 
+
+	.vectormap img {
+	height: 80px;
+	width: 100%;
+	}
+
+	h1 {
+	font-size: 10px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 14px;
+	}
+
+	.hometop h1 {
+	font-size: 50px;
+	line-height: 45px;
+	padding-bottom: 0px;
+	}
+
+	span:last-of-type {
+        display: block;
+    }
+
+    span:nth-of-type(2) {
+        display: block;
+    }
+
+    h5 {
+	font-size: 8px;
+	line-height: 10px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-right: 10px;
+	margin-left: 10px;
+	}
+
+	.hometop h5 {
+	font-size: 22px;
+	margin-bottom: 25px;
+	margin-top: 30px;
+	background-color: #ef6c62;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+	.arrow {
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	}
+
+	.header {
+	background-color: white;
+	color: #72c1ad;
+	height: auto;
+	width: 100%;
+	padding-top: 30px;
+	text-align: center;
+	}
+
+	.grid {
+	width: 80px;
+	height: 80px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-right: 3px;
+	padding-left: 3px;
+	}
+
+	.imagegrid {
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 20px;
+	}
+
+	.map {
+	text-align: center;
+	width: 100%;
+	position: relative;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 0;
+	}
+
+	iframe {
+		width: 100%;
+		height: 250px;
+	}
+
+	h2 {
+	font-size: 8px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	padding-top: 20px;
+	}
+
+	.buttonrow {
+	padding-left: 10px;
+	}
+
+	button.friday {
+	background-color: white;
+	width: 80px;
+	height: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	color: #ef6c62;
+	border: 1px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.friday:hover {
+	background-color: #ef6c62;
+	width: 80px;
+	height: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	color: white;
+	border: 1px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.fridayactive {
+	background-color: #ef6c62;
+	width: 80px;
+	height: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	color: white;
+	border: 1px solid #ef6c62;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+
+	button.saturday {
+	background-color: white;
+	width: 80px;
+	height: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	color: #d8d960;
+	border: 1px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturday:hover{
+	background-color: #d8d960;
+	width: 80px;
+	height: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	color: white;
+	border: 1px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.saturdayactive{
+	background-color: #d8d960;
+	width: 80px;
+	height: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	color: white;
+	border: 1px solid #d8d960;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday {
+	background-color: white;
+	width: 80px;
+	height: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	color: #72c1ad;
+	border: 1px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sunday:hover {
+	background-color: #72c1ad;
+	width: 80px;
+	height: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	color: white;
+	border: 1px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	button.sundayactive {
+	background-color: #72c1ad;
+	width: 80px;
+	height: 20px;
+	font-size: 10px;
+	font-weight: bold;
+	color: white;
+	border: 1px solid #72c1ad;
+	margin: 3px;
+	transition: all 0.5s ease;
+	}
+
+	h3 {
+	color: #ef6c62;
+	font-size: 8px;
+	margin-top: 20px;
+	margin-bottom: 0;
+	line-height: 12px;
+	margin-right: 10px;
+	margin-left: 0px;
+	}
+
+	.itinerary {
+	width: 100%;
+	padding-left: 10px;
+	}
+
+	p {
+	font-size: 5px;
+	line-height: 8px;
+	margin-top: 3px;
+	width: 80%;
+	}
+
+	.instabanner {
+	background-color: #ef6c62;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerpink {
+	background-color: #d8d960;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerblue {
+	background-color: #72c1ad;
+	width: 100%;
+	vertical-align: center;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerhome {
+	background-color: #72c1ad;
+	width: 100%;
+	text-align: left;
+	margin-left: 0px;
+	height: auto;
+	z-index: 0;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	}
+
+	.instabannerhome h4 {
+	font-size: 22px;
+	line-height: 30px;
+	}
+
+	.instabannerimg {
+	height: 80px;
+	width: 80px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+	left: 100px;
+	right: 100px;
+	z-index: none;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	}
+
+	h4 {
+	color: white;
+	font-size: 10px;
+	line-height: 14px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 10px;
+	height: auto;
+	padding-right: 10px;
+	padding-top: 100px;
+	padding-bottom: 10px;
+	}
+
+	.bottompagearrows img{
+	height: 15px;
+	}
+
+	.arrow {
+	display:none;
+	}
+
+	.bottompagearrows {
+	vertical-align: center;
+	text-align: center;
+	padding-top: 20px;
+	}
+
+	.footer {
+	height: 40px;
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+	background-color: #ebebeb;
+	}
+
+	.footeramerica {
+	height: 60px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	background-color: #ebebeb;
+	}
+
+	.footer p{
+	font-size: 4px;
+	line-height: 8px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footeramerica p{
+	font-size: 10px;
+	line-height: 16px;
+	margin-right: 0px;
+	margin-top: 0px;
+	color: #72c1ad;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 100%
+	}
+
+	.footer hr {
+	border-top: 1px solid #72c1ad;
+	margin: 0;
+	}
+
+	.footeramerica hr {
+	border-top: 2px solid #72c1ad;
+	margin: 0;
+	}
+
+	.hometop h3 {
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 0px;
+	color: #d8d960;
+	font-size: 22px;
+	}
+
+	.homecityall {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 60px;
+	}
+
+	.homecityallamerica {
+	text-align: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	}
+
+	.homecityindividual {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 300px;
+	height: 420px;
+	}
+
+	.homecityindividual p{
+	display: inline-block;
+	margin-right: 25px;
+	margin-left: 25px;
+	text-align: left;
+	float: left;
+	padding-top: 50px;
+	}
+
+	.homecityindividual h3{
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: left;
+	position: absolute;
+	}
+
+	.gridhome2 {
+	width: 250px;
+	height: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	}
+
+	.morecitiesarrow {
+		height: 30px;
+	}
+
+	.wtfisthis {
+	padding-top: 20px;
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	}
+
+	.wtfisthis p{
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: 
+	}
+
+	.aboutcontent {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentcallout {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	}
+
+	.aboutcontentcallout h3 {
+	font-size: 34px;
+	line-height: 42px;
+	color: #ef6c62;
+	}
+
+	.aboutcontent p{
+	margin-right: 0px;
+	}
+
+	.aboutcontentdedication {
+	margin-right: 25px;
+	margin-left: 30px;
+	padding-top: 30px;
+	width: 100%;
+	}
+
+	.aboutcontentdedication p{
+	margin-right: 0px;
+	font-size: 12px;
+	line-height: 18px;
+	}
+
+
+	h6 {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 28px;
+	z-index: 1;
+	position: relative;
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 25px;
+	height: auto;
+	padding-right: 25px;
+	padding-top: 350px;
+	padding-bottom: 20px;
+	}
+
+	hr.wtf {
+		color: #ebebeb;
+		border: 1px solid;
+		margin-top: 0;
+		padding-top: 0;
+	}
+}
