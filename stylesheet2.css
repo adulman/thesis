@@ -5627,7 +5627,7 @@ h3 {
 
 
 p {
-	width: 360px;
+	width: 280px;
 	padding-right: 0px;
 	margin-right: 0px;
 	font-size: 18px;
@@ -5976,9 +5976,10 @@ h3 {
 
 
 p {
-	width: 360px;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
 	padding-right: 0px;
-	margin-right: 0px;
 	font-size: 18px;
 	line-height: 28px;
 	margin-top: 10px;
