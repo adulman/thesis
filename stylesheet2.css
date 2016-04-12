@@ -3965,6 +3965,14 @@ h5 {
 	width: 230px;
 	font-size: 35px;
 }
+
+.morecities h2 {
+	padding-bottom: 0px;
+}
+
+.morecitiesarrow {
+	height: 60px;
+}
 }
 
 
