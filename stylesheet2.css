@@ -2877,8 +2877,8 @@ h2 {
 
 .instabannerhome {
 	width: 80%;
-	padding-bottom: 300px;
-	padding-top: 200px;
+	margin-bottom: 300px;
+	margin-top: 200px;
 }
 
 .homecityall {
@@ -2892,8 +2892,8 @@ h2 {
 	height: auto;
 	padding-right: 40px;
 	padding-left: 40px;
-	margin-top: 15px;
-	margin-bottom: 40px;
+	padding-top: 15px;
+	padding-bottom: 40px;
 }
 
 .homecityindividual img {
