@@ -2534,6 +2534,46 @@ h2 {
 	width: auto;
 }
 
+
+
+
+
+
+/* start home styles */
+
+.homecityall {
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.homecityindividual {
+	width: 350px;
+	height: auto;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 15px;
+	padding-bottom: 40px;
+}
+
+.homecityindividual img {
+	height: 350px;
+	width: 350px;
+}
+
+.homecityindividual p {
+	width: 350px;
+	margin-right: auto;
+	padding-top: 70px;
+	margin-left: auto;
+	line-height: 40px;
+}
+
+.homecityindividual h3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 350px;
+}
 }
 
 
