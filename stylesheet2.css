@@ -2873,12 +2873,12 @@ h2 {
 .instabannerhome h4 {
 	font-size: 38px;
 	line-height: 47px;
-	padding-bottom: 300px;
-	padding-top: 200px;
 }
 
 .instabannerhome {
 	width: 80%;
+	padding-bottom: 300px;
+	padding-top: 200px;
 }
 
 .homecityall {
