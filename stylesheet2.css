@@ -3488,14 +3488,14 @@ h2 {
 .instabannerhome h4 {
 	font-size: 28px;
 	line-height: 36px;
-	height: 220px;
+	height: 240px;
 }
 
 .instabannerhome {
-	width: 80%;
+	width: 85%;
 	margin-bottom: 250px;
 	margin-top: 150px;
-	height: 220px;
+	height: 240px;
 }
 
 .homecityall {
@@ -3521,7 +3521,7 @@ h2 {
 .homecityindividual p {
 	width: 270px;
 	margin-right: auto;
-	padding-top: 70px;
+	padding-top: 60px;
 	margin-left: auto;
 	line-height: 30px;
 	font-size: 20px;
