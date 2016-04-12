@@ -818,7 +818,7 @@ button.sundayactive {
 
 .hometop h3 {
 	font-size: 35px;
-	width: 900px;
+	width: 700px;
 	margin-right: auto;
 	margin-left: auto;
 }
@@ -936,7 +936,7 @@ h2 {
 
 .instabannerhome {
 	margin-top: 250px;
-	margin-bottom: 250px;
+	margin-bottom: 350px;
 	height: 300px;
 	width: 60%;
 	margin-left: auto;
@@ -968,6 +968,7 @@ h2 {
 	margin-right: auto;
 	padding-top: 100px;
 	margin-left: auto;
+	line-height: 45px;
 }
 
 .homecityindividual h3 {
