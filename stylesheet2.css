@@ -3479,7 +3479,61 @@ h2 {
 	width: auto;
 }
 
+
+
+
+
+/* start home styles */
+
+.instabannerhome h4 {
+	font-size: 28px;
+	line-height: 36px;
+	height: 220px;
 }
+
+.instabannerhome {
+	width: 80%;
+	margin-bottom: 280px;
+	margin-top: 180px;
+	height: 220px;
+}
+
+.homecityall {
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.homecityindividual {
+	width: 270px;
+	height: auto;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-top: 15px;
+	padding-bottom: 40px;
+}
+
+.homecityindividual img {
+	height: 270px;
+	width: 270px;
+}
+
+.homecityindividual p {
+	width: 270px;
+	margin-right: auto;
+	padding-top: 70px;
+	margin-left: auto;
+	line-height: 32px;
+	font-size: 22px;
+}
+
+.homecityindividual h3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 270px;
+}
+}
+
 
 
 
