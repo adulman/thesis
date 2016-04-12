@@ -1,3 +1,5 @@
+
+
 * { margin: 0, padding: 0 }
 
 html {
@@ -796,8 +798,7 @@ button.sundayactive {
 
 
 
-@media only screen  
-and (max-device-width : 2700px) 
+@media (max-width : 2700px) 
 {
 
 
@@ -927,8 +928,8 @@ h2 {
 
 
 
-@media only screen  
-and (max-device-width : 2500px) 
+@media   
+(max-width : 2500px) 
 {
 
 
@@ -1059,8 +1060,8 @@ h2 {
 
 
 
-@media only screen  
-and (max-device-width : 2400px) 
+@media   
+(max-width : 2400px) 
 {
 
 
@@ -1185,8 +1186,8 @@ h2 {
 
 
 
-@media only screen  
-and (max-device-width : 2300px) 
+@media   
+(max-width : 2300px) 
 {
 
 
@@ -1314,8 +1315,8 @@ h2 {
 
 
 
-@media only screen  
-and (max-device-width : 2200px) 
+@media   
+(max-width : 2200px) 
 {
 
 
@@ -1455,8 +1456,8 @@ h2 {
 
 
 
-@media only screen  
-and (max-device-width : 2100px) 
+@media   
+(max-width : 2100px) 
 {
 
 
@@ -1583,8 +1584,8 @@ h2 {
 
 
 
-@media only screen  
-and (max-device-width : 2000px) 
+@media   
+(max-width : 2000px) 
 {
 
 	.grid {
@@ -1674,8 +1675,8 @@ h2 {
 
 
 
-@media only screen  
-and (max-device-width : 1900px) 
+@media   
+(max-width : 1900px) 
 {
 
 	.grid {
@@ -1776,8 +1777,8 @@ h2 {
 
 
 
-@media only screen  
-and (max-device-width : 1800px) 
+@media   
+(max-width : 1800px) 
 {
 
 	.grid {
@@ -1844,8 +1845,8 @@ p {
 
 
 
-@media only screen  
-and (max-device-width : 1700px) 
+@media   
+(max-width : 1700px) 
 {
 
 	.grid {
@@ -1903,8 +1904,8 @@ p {
 
 
 
-@media only screen  
-and (max-device-width : 1600px) 
+@media   
+(max-width : 1600px) 
 {
 	.map {
 	text-align: center;
@@ -1960,8 +1961,8 @@ and (max-device-width : 1600px)
 
 
 
-@media only screen  
-and (max-device-width : 1500px) 
+@media   
+(max-width : 1500px) 
 {
 	.map {
 	text-align: center;
@@ -2763,8 +2764,8 @@ button.sundayactive {
 
 
 
-@media only screen  
-and (max-device-width : 1400px) 
+@media   
+(max-width : 1400px) 
 {
 	.map {
 	text-align: center;
@@ -3537,8 +3538,8 @@ button.sundayactive {
 
 
 
-@media only screen  
-and (max-device-width : 1300px) 
+@media   
+(max-width : 1300px) 
 {
 
 .header {
@@ -4315,8 +4316,8 @@ button.sundayactive {
 
 
 
-@media only screen  
-and (max-device-width : 1200px) 
+@media   
+(max-width : 1200px) 
 {
 
 
@@ -5006,8 +5007,8 @@ button.sundayactive {
 
 
 
-@media only screen  
-and (max-device-width : 1100px) 
+@media   
+(max-width : 1100px) 
 {
 
 	.vectormap img {
@@ -5530,8 +5531,8 @@ h4 {
 
 
 
-@media only screen  
-and (max-device-width : 1000px) 
+@media   
+(max-width : 1000px) 
 {
 
 	.vectormap img {
@@ -6052,8 +6053,8 @@ h4 {
 
 
 
-@media only screen  
-and (max-device-width : 900px) 
+@media   
+(max-width : 900px) 
 {
 
 	.vectormap img {
@@ -6576,8 +6577,8 @@ h4 {
 
 
 
-@media only screen  
-and (max-device-width : 800px) 
+@media   
+(max-width : 800px) 
 {
 
 	.vectormap img {
@@ -7106,8 +7107,8 @@ h4 {
 
 
 
-@media only screen  
-and (max-device-width : 700px) 
+@media   
+(max-width : 700px) 
 {
 
 	.vectormap img {
@@ -7642,8 +7643,8 @@ and (max-device-width : 700px)
 
 
 
-@media only screen  
-and (max-device-width : 600px) 
+@media   
+(max-width : 600px) 
 {
 
 	.vectormap img {
@@ -8178,8 +8179,8 @@ and (max-device-width : 600px)
 
 
 
-@media only screen  
-and (max-device-width : 500px) 
+@media   
+(max-width : 500px) 
 {
 
 	.vectormap img {
@@ -8719,8 +8720,8 @@ and (max-device-width : 500px)
 
 
 
-@media only screen 
-and (max-device-width : 400px) 
+@media  
+(max-width : 400px) 
 { 
 
 	.vectormap img {
@@ -9249,8 +9250,8 @@ and (max-device-width : 400px)
 
 
 
-@media only screen
-and (max-device-width : 300px) 
+@media 
+(max-width : 300px) 
 { 
 
 	.vectormap img {
@@ -9787,8 +9788,8 @@ and (max-device-width : 300px)
 
 
 
-@media only screen 
-and (max-device-width : 200px) 
+@media  
+(max-width : 200px) 
 { 
 
 	.vectormap img {
@@ -10319,8 +10320,8 @@ and (max-device-width : 200px)
 
 
 
-@media only screen 
-and (max-device-width : 100px) 
+@media  
+(max-width : 100px) 
 { 
 
 	.vectormap img {
@@ -10838,3 +10839,5 @@ and (max-device-width : 100px)
 		padding-top: 0;
 	}
 }
+
+
