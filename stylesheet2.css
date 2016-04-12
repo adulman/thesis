@@ -5831,7 +5831,7 @@ iframe {
 
 
 h2 {
-	width: 280px;
+	width: 270px;
 	margin-right: auto;
 	margin-left: auto;
 	padding-top: 0px;
@@ -5839,7 +5839,7 @@ h2 {
 	}
 
 .buttonrow {
-	width: 280px;
+	width: 270px;
 	margin-right: auto;
 	margin-left: auto;
 	padding-left: 0px;
@@ -5847,121 +5847,122 @@ h2 {
 
 button.friday {
 	background-color: white;
-	width: 130px;
-	height: 40px;
-	font-size: 18px;
+	width: 80px;
+	height: 30px;
+	font-size: 14px;
 	font-weight: bold;
 	color: #ef6c62;
 	border: 2px solid #ef6c62;
-	margin: 4px;
-	display: block;
+	margin: 1px;
+	display: inline-block;
 	transition: all 0.5s ease;
 	}
 
 button.friday:hover {
 	background-color: #ef6c62;
-	width: 130px;
-	height: 40px;
-	font-size: 18px;
+	width: 80px;
+	height: 30px;
+	font-size: 14px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #ef6c62;
-	margin: 4px;
-	display: block;
+	margin: 1px;
+	display: inline-block;
 	transition: all 0.5s ease;
 	}
 
 button.fridayactive {
 	background-color: #ef6c62;
-	width: 130px;
-	height: 40px;
-	font-size: 18px;
+	width: 80px;
+	height: 30px;
+	font-size: 14px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #ef6c62;
-	margin: 4px;
-	display: block;
+	margin: 1px;
+	display: inline-block;
 	transition: all 0.5s ease;
 	}
 
 
 button.saturday {
 	background-color: white;
-	width: 130px;
-	height: 40px;
-	font-size: 18px;
+	width: 100px;
+	height: 30px;
+	font-size: 14px;
 	font-weight: bold;
 	color: #d8d960;
 	border: 2px solid #d8d960;
-	margin: 4px;
-	display: block;
+	margin: 1px;
+	display: inline-block;
 	transition: all 0.5s ease;
 	}
 
 button.saturday:hover{
 	background-color: #d8d960;
-	width: 130px;
-	height: 40px;
-	font-size: 18px;
+	width: 100px;
+	height: 30px;
+	font-size: 14px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #d8d960;
-	margin: 4px;
-	display: block;
+	margin: 1px;
+	display: inline-block;
 	transition: all 0.5s ease;
 	}
 
 button.saturdayactive{
 	background-color: #d8d960;
-	width: 130px;
-	height: 40px;
-	font-size: 18px;
+	width: 100px;
+	height: 30px;
+	font-size: 14px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #d8d960;
-	margin: 4px;
-	display: block;
+	margin: 1px;
+	display: inline-block;
 	transition: all 0.5s ease;
 	}
 
 button.sunday {
 	background-color: white;
-	width: 130px;
-	height: 40px;
-	font-size: 18px;
+	width: 80px;
+	height: 30px;
+	font-size: 14px;
 	font-weight: bold;
 	color: #72c1ad;
 	border: 2px solid #72c1ad;
-	margin: 4px;
-	display: block;
+	margin: 1px;
+	display: inline-block;
 	transition: all 0.5s ease;
 	}
 
 button.sunday:hover {
 	background-color: #72c1ad;
-	width: 130px;
-	height: 40px;
-	font-size: 18px;
+	width: 80px;
+	height: 30px;
+	font-size: 14px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #72c1ad;
-	margin: 4px;
-	display: block;
+	margin: 1px;
+	display: inline-block;
 	transition: all 0.5s ease;
 	}
 
 button.sundayactive {
 	background-color: #72c1ad;
-	width: 130px;
-	height: 40px;
-	font-size: 18px;
+	width: 80px;
+	height: 30px;
+	font-size: 14px;
 	font-weight: bold;
 	color: white;
 	border: 2px solid #72c1ad;
-	margin: 3px;
-	display: block;
+	margin: 1px;
+	display: inline-block;
 	transition: all 0.5s ease;
 	}
+
 
 h3 {
 	color: #ef6c62;
@@ -5974,7 +5975,7 @@ h3 {
 
 
 p {
-	width: 280px;
+	width: 270px;
 	padding-right: 0px;
 	margin-right: 0px;
 	font-size: 18px;
@@ -5983,7 +5984,7 @@ p {
 	}
 
 .itinerary {
-	width: 280px;
+	width: 270px;
 	margin-right: auto;
 	margin-left: auto;
 	padding-left: 0px;
@@ -5991,8 +5992,8 @@ p {
 
 
 .instabannerimg {
-	height: 280px;
-	width: 280px;
+	height: 270px;
+	width: 270px;
 	padding-top: 30px;
 	margin-left: auto;
 	margin-right: auto; 
