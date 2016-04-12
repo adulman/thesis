@@ -1489,6 +1489,7 @@ button.sundayactive {
 
 
 
+
 /*
 2350 is the test for 2400 
 */
@@ -1749,6 +1750,21 @@ h2 {
 
 .footer p{
 	width: auto;
+}
+
+
+
+
+
+/* start home styles */
+
+.instabannerhome {
+	margin-top: 250px;
+	margin-bottom: 350px;
+	height: 300px;
+	width: 72%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 }
