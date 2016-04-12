@@ -1046,7 +1046,7 @@ button.sundayactive {
 .homecityindividual p {
 	width: 400px;
 	margin-right: auto;
-	padding-top: 100px;
+	padding-top: 80px;
 	margin-left: auto;
 	line-height: 45px;
 }
@@ -1055,6 +1055,7 @@ button.sundayactive {
 	margin-right: auto;
 	margin-left: auto;
 	width: 400px;
+	margin-top: 20px;
 }
 .morecities h2 {
 	width: auto;
