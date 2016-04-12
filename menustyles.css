@@ -15,7 +15,7 @@ body {
   padding: 0;
   border: 0;
   list-style: none;
-  line-height: 0.5;
+  line-height: 1;
   display: block;
   position: relative;
   -webkit-box-sizing: border-box;
@@ -236,7 +236,7 @@ body {
 
 
 
-@media all and (max-width: 800px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+@media all and (max-width: 1120px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1120px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1120px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1120px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1120px), only screen and (min-resolution: 192dpi) and (max-width: 1120px), only screen and (min-resolution: 2dppx) and (max-width: 1120px) {
   #cssmenu {
     background: #ffffff;
   }
@@ -352,6 +352,13 @@ body {
 
 
 
+
+
+@media only screen  
+and (max-device-width : 900px) 
+{
+}
+
 @media (min-width: 800px) {
   #cssmenu > ul > li {
     float: right;
@@ -367,7 +374,7 @@ body {
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1120px) {
   #cssmenu ul li.dtchw {
   display: none;
   }
