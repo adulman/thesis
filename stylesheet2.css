@@ -808,26 +808,6 @@ button.sundayactive {
 	padding-bottom: 30px;
 	}
 
-.hometop h1 {
-	font-size: 100px;
-}
-
-.hometop h5 {
-	font-size: 50px;
-}
-
-.hometop h3 {
-	font-size: 35px;
-	width: 700px;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-.instabannerhome h4 {
-	font-size: 45px;
-	line-height: 60px;
-}
-
 iframe {
 	width: 80%;
 	height: 1000px;
@@ -934,53 +914,6 @@ h2 {
 	margin-right: auto;
 }
 
-.instabannerhome {
-	margin-top: 250px;
-	margin-bottom: 350px;
-	height: 300px;
-	width: 60%;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.homecityall {
-	width: 2000px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.homecityindividual {
-	width: 400px;
-	height: auto;
-	padding-right: 60px;
-	padding-left: 60px;
-	padding-top: 15px;
-	padding-bottom: 45px;
-}
-
-.homecityindividual img {
-	height: 400px;
-	width: 400px;
-}
-
-.homecityindividual p {
-	width: 400px;
-	margin-right: auto;
-	padding-top: 100px;
-	margin-left: auto;
-	line-height: 45px;
-}
-
-.homecityindividual h3 {
-	margin-right: auto;
-	margin-left: auto;
-	width: 400px;
-}
-.morecities h2 {
-	width: auto;
-	padding-bottom: 30px;
-}
-
 .footer p{
 	width: auto;
 }
@@ -1057,6 +990,76 @@ button.sundayactive {
 	border: 3px solid #72c1ad;
 }
 
+
+
+/* start home styles */
+
+.hometop h1 {
+	font-size: 100px;
+}
+
+.hometop h5 {
+	font-size: 50px;
+}
+
+.hometop h3 {
+	font-size: 35px;
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.instabannerhome {
+	margin-top: 250px;
+	margin-bottom: 350px;
+	height: 300px;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.instabannerhome h4 {
+	font-size: 45px;
+	line-height: 60px;
+}
+
+.homecityall {
+	width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.homecityindividual {
+	width: 400px;
+	height: auto;
+	padding-right: 60px;
+	padding-left: 60px;
+	padding-top: 15px;
+	padding-bottom: 45px;
+}
+
+.homecityindividual img {
+	height: 400px;
+	width: 400px;
+}
+
+.homecityindividual p {
+	width: 400px;
+	margin-right: auto;
+	padding-top: 100px;
+	margin-left: auto;
+	line-height: 45px;
+}
+
+.homecityindividual h3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 400px;
+}
+.morecities h2 {
+	width: auto;
+	padding-bottom: 30px;
+}
 }
 
 
@@ -1402,6 +1405,75 @@ button.sundayactive {
 	border: 3px solid #72c1ad;
 }
 
+
+/* start home styles */
+
+.hometop h1 {
+	font-size: 90px;
+}
+
+.hometop h5 {
+	font-size: 40px;
+}
+
+.hometop h3 {
+	font-size: 30px;
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.instabannerhome {
+	margin-top: 250px;
+	margin-bottom: 350px;
+	height: 300px;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.instabannerhome h4 {
+	font-size: 40px;
+	line-height: 55px;
+}
+
+.homecityall {
+	width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.homecityindividual {
+	width: 370px;
+	height: auto;
+	padding-right: 70px;
+	padding-left: 70px;
+	padding-top: 15px;
+	padding-bottom: 45px;
+}
+
+.homecityindividual img {
+	height: 370px;
+	width: 370px;
+}
+
+.homecityindividual p {
+	width: 370px;
+	margin-right: auto;
+	padding-top: 90px;
+	margin-left: auto;
+	line-height: 45px;
+}
+
+.homecityindividual h3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 370px;
+}
+.morecities h2 {
+	width: auto;
+	padding-bottom: 30px;
+}
 }
 
 
