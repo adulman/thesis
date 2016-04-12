@@ -1187,6 +1187,7 @@ iframe {
 
 h5 {
 	margin-top: 40px;
+	font-size: 40px;
 }
 
 h4 {
@@ -1201,6 +1202,8 @@ p {
 	width: 1200px;
 	padding-right: 0px;
 	margin-right: 0px;
+	font-size: 25px;
+	line-height: 40px;
 }
 
 .itinerary {
@@ -1214,6 +1217,7 @@ h2 {
 	width: 1200px;
 	margin-right: auto;
 	margin-left: auto;
+	font-size: 55px;
 }
 
 .buttonrow {
@@ -1260,6 +1264,13 @@ h2 {
 	width: auto;
 }
 
+h3 {
+	font-size: 40px;
+}
+
+h1 {
+	font-size: 90px;
+}
 }
 
 
