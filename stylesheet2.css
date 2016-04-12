@@ -5485,15 +5485,15 @@ iframe {
 
 
 h2 {
-	width: 280px;
+	width: 300px;
 	margin-right: auto;
 	margin-left: auto;
 	padding-top: 0px;
-	font-size: 24px;
+	font-size: 26px;
 	}
 
 .buttonrow {
-	width: 280px;
+	width: 300px;
 	margin-right: auto;
 	margin-left: auto;
 	padding-left: 0px;
@@ -5619,7 +5619,7 @@ button.sundayactive {
 
 h3 {
 	color: #ef6c62;
-	font-size: 28px;
+	font-size: 26px;
 	margin-top: 60px;
 	margin-bottom: 0;
 	line-height: 32px;
@@ -5628,7 +5628,7 @@ h3 {
 
 
 p {
-	width: 280px;
+	width: 300px;
 	padding-right: 0px;
 	margin-right: 0px;
 	font-size: 18px;
@@ -5637,7 +5637,7 @@ p {
 	}
 
 .itinerary {
-	width: 280px;
+	width: 300px;
 	margin-right: auto;
 	margin-left: auto;
 	padding-left: 0px;
@@ -5645,8 +5645,8 @@ p {
 
 
 .instabannerimg {
-	height: 280px;
-	width: 280px;
+	height: 300px;
+	width: 300px;
 	padding-top: 30px;
 	margin-left: auto;
 	margin-right: auto; 
