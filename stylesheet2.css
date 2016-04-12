@@ -808,6 +808,14 @@ button.sundayactive {
 	padding-bottom: 30px;
 	}
 
+.hometop h1 {
+	font-size: 100px;
+}
+
+.hometop h5 {
+	font-size: 50px;
+}
+
 iframe {
 	width: 80%;
 	height: 1000px;
@@ -912,6 +920,52 @@ h2 {
 	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.instabannerhome {
+	margin-top: 250px;
+	margin-bottom: 250px;
+	height: 300px;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.homecityall {
+	width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.homecityindividual {
+	width: 400px;
+	height: auto;
+	padding-right: 60px;
+	padding-left: 60px;
+	padding-top: 15px;
+	padding-bottom: 45px;
+}
+
+.homecityindividual img {
+	height: 400px;
+	width: 400px;
+}
+
+.homecityindividual p {
+	width: 400px;
+	margin-right: auto;
+	padding-top: 100px;
+	margin-left: auto;
+}
+
+.homecityindividual h3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 400px;
+}
+.morecities h2 {
+	width: auto;
+	padding-bottom: 30px;
 }
 
 .footer p{
