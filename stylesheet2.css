@@ -816,6 +816,18 @@ button.sundayactive {
 	font-size: 50px;
 }
 
+.hometop h3 {
+	font-size: 35px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.instabannerhome h4 {
+	font-size: 45px;
+	line-height: 60px;
+}
+
 iframe {
 	width: 80%;
 	height: 1000px;
