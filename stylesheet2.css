@@ -3102,7 +3102,8 @@ h2 {
 	margin-right: auto;
 	padding-top: 70px;
 	margin-left: auto;
-	line-height: 40px;
+	line-height: 32px;
+	font-size: 22px;
 }
 
 .homecityindividual h3 {
