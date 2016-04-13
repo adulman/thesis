@@ -4919,7 +4919,15 @@ h6 {
 	width: 650px;
 }
 
+.aboutcontent p{
+	width: 650px;
+}
+
 .aboutcontentdedication {
+	width: 650px;
+}
+
+.aboutcontentdedication p{
 	width: 650px;
 }
 }
