@@ -5063,6 +5063,84 @@ h4 {
 	width: auto;
 	}
 
+
+
+
+/* start home styles */
+
+.instabannerhome h4 {
+	font-size: 28px;
+	line-height: 36px;
+	height: 240px;
+}
+
+.hometop h1 {
+	font-size: 70px;
+}
+
+.hometop h5 {
+	font-size: 35px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+
+.hometop h3 {
+	font-size: 25px;
+	width: 500px;
+	color: #d8d960;
+}
+
+.instabannerhome {
+	width: 100%;
+	margin-bottom: 170px;
+	margin-top: 150px;
+	height: 240px;
+}
+
+.homecityall {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.homecityindividual {
+	width: 220px;
+	height: auto;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 15px;
+	padding-bottom: 40px;
+}
+
+.homecityindividual img {
+	height: 220px;
+	width: 220px;
+}
+
+.homecityindividual p {
+	width: 220px;
+	margin-right: auto;
+	padding-top: 40px;
+	margin-left: auto;
+	line-height: 30px;
+	font-size: 20px;
+}
+
+.homecityindividual h3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 220px;
+	font-size: 30px;
+	margin-top: 15px;
+}
+
+.morecities h2 {
+	padding-bottom: 0px;
+}
+
+.morecitiesarrow {
+	height: 60px;
+}
 }
 
 
