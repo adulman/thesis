@@ -1055,7 +1055,7 @@ button.sundayactive {
 .homecityindividual p {
 	width: 400px;
 	margin-right: auto;
-	padding-top: 80px;
+	padding-top: 0px;
 	margin-left: auto;
 	line-height: 45px;
 }
