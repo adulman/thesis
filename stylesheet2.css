@@ -1298,6 +1298,9 @@ iframe {
 h5 {
 	margin-top: 40px;
 	font-size: 40px;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 h4 {
@@ -5431,6 +5434,7 @@ h5 {
 	line-height: 32px;
 	margin-top: 10px;
 	margin-bottom: 0px;
+	}
 	}
 
 .grid {
