@@ -4378,7 +4378,7 @@ h4 {
 .homecityindividual p {
 	width: 280px;
 	margin-right: auto;
-	padding-top: 55px;
+	padding-top: 40px;
 	margin-left: auto;
 	line-height: 30px;
 	font-size: 20px;
@@ -4389,6 +4389,7 @@ h4 {
 	margin-left: auto;
 	width: 280px;
 	font-size: 30px;
+	margin-top: 15px;
 }
 
 .morecities h2 {
