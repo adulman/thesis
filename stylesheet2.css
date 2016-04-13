@@ -5495,8 +5495,9 @@ h4 {
 
 .hometop h3 {
 	font-size: 20px;
-	width: 500px;
+	width: 400px;
 	color: #d8d960;
+	line-height: 24px;
 }
 
 .instabannerhome {
@@ -5531,8 +5532,8 @@ h4 {
 	margin-right: auto;
 	padding-top: 40px;
 	margin-left: auto;
-	line-height: 30px;
-	font-size: 20px;
+	line-height: 28px;
+	font-size: 18px;
 }
 
 .homecityindividual h3 {
