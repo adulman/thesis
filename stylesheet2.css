@@ -5929,21 +5929,21 @@ h4 {
 }
 
 .homecityindividual {
-	width: 200px;
+	width: 190px;
 	height: auto;
-	padding-right: 20px;
-	padding-left: 20px;
+	padding-right: 18px;
+	padding-left: 18px;
 	padding-top: 15px;
-	padding-bottom: 30px;
+	padding-bottom: 28px;
 }
 
 .homecityindividual img {
-	height: 200px;
-	width: 200px;
+	height: 190px;
+	width: 190px;
 }
 
 .homecityindividual p {
-	width: 200px;
+	width: 190px;
 	margin-right: auto;
 	padding-top: 40px;
 	margin-left: auto;
@@ -5954,7 +5954,7 @@ h4 {
 .homecityindividual h3 {
 	margin-right: auto;
 	margin-left: auto;
-	width: 200px;
+	width: 190px;
 	font-size: 30px;
 	margin-top: 15px;
 }
