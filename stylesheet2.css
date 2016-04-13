@@ -4548,6 +4548,10 @@ h6 {
 .aboutcontentdedication {
 	width: 700px;
 }
+
+.aboutcontentdedication p {
+	width: 700px;
+}
 }
 
 
