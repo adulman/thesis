@@ -6328,6 +6328,7 @@ h4 {
 
 .hometop h1 {
 	font-size: 40px;
+	width: 300px;
 }
 
 .hometop h5 {
@@ -6341,7 +6342,7 @@ h4 {
 
 .hometop h3 {
 	font-size: 20px;
-	width: 400px;
+	width: 300px;
 	color: #d8d960;
 	line-height: 24px;
 }
@@ -6360,7 +6361,7 @@ h4 {
 }
 
 .homecityindividual {
-	width: 250px;
+	width: 270px;
 	height: auto;
 	padding-right: 18px;
 	padding-left: 18px;
@@ -6369,12 +6370,12 @@ h4 {
 }
 
 .homecityindividual img {
-	height: 250px;
-	width: 250px;
+	height: 270px;
+	width: 270px;
 }
 
 .homecityindividual p {
-	width: 250px;
+	width: 270px;
 	margin-right: auto;
 	padding-top: 40px;
 	margin-left: auto;
@@ -6385,7 +6386,7 @@ h4 {
 .homecityindividual h3 {
 	margin-right: auto;
 	margin-left: auto;
-	width: 250px;
+	width: 270px;
 	font-size: 30px;
 	margin-top: 15px;
 }
