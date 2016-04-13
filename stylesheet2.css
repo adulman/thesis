@@ -5963,6 +5963,14 @@ h4 {
 .morecitiesarrow {
 	height: 50px;
 }
+
+div span:last-of-type {
+        display: block;
+    }
+
+div span:nth-of-type(2) {
+        display: block;
+    }
 }
 
 
