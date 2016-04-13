@@ -7665,6 +7665,45 @@ h4 {
 .footeramerica {
 	height: 100px;
 }
+
+h6 {
+	padding-top: 330px;
+	padding-right: 10%;
+	padding-left: 10%;
+	font-size: 26px;
+	line-height: 35px;
+}
+
+.aboutcontent {
+	width: 250px;
+}
+
+.aboutcontent p {
+	width: 250px;
+	font-size: 18px;
+	line-height: 28px;
+}
+
+.aboutcontentdedication {
+	width: 250px;
+}
+
+.aboutcontentdedication p {
+	width: 250px;
+	font-size: 14px;
+	line-height: 22px;
+}
+
+.aboutcontentcallout {
+	width: 250px;
+	padding-bottom: 20px;
+}
+
+.aboutcontentcallout h3{
+	font-size: 26px;
+	line-height: 35px;
+	margin-top: 30px;
+}
 }
 
 
