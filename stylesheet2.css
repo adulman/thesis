@@ -4728,6 +4728,17 @@ h4 {
 	width: auto;
 	}
 
+/* start home styles */
+
+.homecityindividual {
+	width: 280px;
+	height: auto;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 15px;
+	padding-bottom: 40px;
+}
+
 }
 
 
