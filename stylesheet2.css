@@ -4907,6 +4907,21 @@ h4 {
 	height: 80px;
 }
 
+h6 {
+	padding-left: 420px;
+}
+
+.aboutcontentcallout {
+	width: 650px;
+}
+
+.aboutcontent {
+	width: 650px;
+}
+
+.aboutcontentdedication {
+	width: 650px;
+}
 }
 
 
