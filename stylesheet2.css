@@ -1514,6 +1514,18 @@ button.sundayactive {
 	width: auto;
 	padding-bottom: 30px;
 }
+
+h6 {
+	padding-left: 700px;
+	font-size: 40px;
+	line-height: 55px;
+	height: 300px;
+}
+
+.aboutcontentcallout h3 {
+	font-size: 55px;
+	line-height: 70px;
+}
 }
 
 
