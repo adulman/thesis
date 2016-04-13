@@ -3743,6 +3743,22 @@ h3 {
 	width: 270px;
 	font-size: 35px;
 }
+
+.hometop h1 {
+	font-size: 70px;
+}
+
+.hometop h5 {
+	font-size: 35px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+
+.hometop h3 {
+	font-size: 25px;
+	width: 500px;
+	color: #d8d960;
+}
 }
 
 
@@ -3921,6 +3937,22 @@ h5 {
 	font-size: 28px;
 	line-height: 36px;
 	height: 240px;
+}
+
+.hometop h1 {
+	font-size: 70px;
+}
+
+.hometop h5 {
+	font-size: 35px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+
+.hometop h3 {
+	font-size: 25px;
+	width: 500px;
+	color: #d8d960;
 }
 
 .instabannerhome {
