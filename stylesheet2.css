@@ -1070,6 +1070,36 @@ button.sundayactive {
 	width: auto;
 	padding-bottom: 30px;
 }
+
+h6 {
+	padding-left: 700px;
+	font-size: 50px;
+	line-height: 65px;
+	height: 300px;
+}
+
+.aboutcontent {
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.aboutcontentcallout {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.aboutcontentcallout h3 {
+	font-size: 65px;
+	line-height: 80px;
+}
+
+.aboutcontentdedication {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
 }
 
 
