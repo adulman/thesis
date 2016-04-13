@@ -5896,13 +5896,16 @@ h4 {
 }
 
 .hometop h1 {
-	font-size: 50px;
+	font-size: 40px;
 }
 
 .hometop h5 {
 	font-size: 25px;
-	margin-top: 0px;
+	margin-top: 15px;
 	margin-bottom: 25px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .hometop h3 {
