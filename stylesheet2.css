@@ -6247,6 +6247,26 @@ h4 {
 .footeramerica {
 	height: 80px;
 }
+
+.aboutcontent {
+	width: 400px;
+}
+
+.aboutcontent p{
+	width: 400px;
+}
+
+.aboutcontentdedication {
+	width: 400px;
+}
+
+.aboutcontentdedication p {
+	width: 400px;
+}
+
+.aboutcontentcallout {
+	width: 400px;
+}
 }
 
 
