@@ -6714,6 +6714,32 @@ h4 {
 .footeramerica {
 	height: 80px;
 }
+
+h6 {
+	padding-top: 410px;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.aboutcontent {
+	width: 85%;
+}
+
+.aboutcontent p {
+	width: 85%;
+}
+
+.aboutcontentdedication {
+	width: 85%;
+}
+
+.aboutcontentdedication p {
+	width: 85%;
+}
+
+.aboutcontentcallout {
+	width: 85%;
+}
 }
 
 
