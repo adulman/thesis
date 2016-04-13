@@ -5344,6 +5344,36 @@ h4 {
 .footeramerica {
 	height: 80px;
 }
+
+h6 {
+	font-size: 24px;
+	line-height: 30px;
+	padding-left: 410px;
+}
+
+.aboutcontent {
+	width: 600px;
+}
+
+.aboutcontent p {
+	width: 600px;
+}
+
+.aboutcontentcallout {
+	width: 600px;
+}
+
+.aboutcontentcallout p{
+	width: 600px;
+}
+
+.aboutcontentdedication {
+	width: 600px;
+}
+
+.aboutcontentdedication p{
+	width: 600px;
+}
 }
 
 
