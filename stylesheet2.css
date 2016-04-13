@@ -5887,6 +5887,82 @@ h4 {
 	width: auto;
 	}
 
+/* start home styles */
+
+.instabannerhome h4 {
+	font-size: 32px;
+	line-height: 40px;
+	height: auto;
+}
+
+.hometop h1 {
+	font-size: 50px;
+}
+
+.hometop h5 {
+	font-size: 25px;
+	margin-top: 0px;
+	margin-bottom: 25px;
+}
+
+.hometop h3 {
+	font-size: 20px;
+	width: 400px;
+	color: #d8d960;
+	line-height: 24px;
+}
+
+.instabannerhome {
+	width: 100%;
+	height: auto;
+	margin-bottom: 60px;
+	margin-top: 50px;
+}
+
+.homecityall {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.homecityindividual {
+	width: 200px;
+	height: auto;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+
+.homecityindividual img {
+	height: 200px;
+	width: 200px;
+}
+
+.homecityindividual p {
+	width: 200px;
+	margin-right: auto;
+	padding-top: 40px;
+	margin-left: auto;
+	line-height: 28px;
+	font-size: 18px;
+}
+
+.homecityindividual h3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 200px;
+	font-size: 30px;
+	margin-top: 15px;
+}
+
+.morecities h2 {
+	padding-bottom: 0px;
+}
+
+.morecitiesarrow {
+	height: 50px;
+}
 }
 
 
