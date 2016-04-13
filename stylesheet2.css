@@ -3516,6 +3516,9 @@ iframe {
 
 h5 {
 	margin-top: 40px;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 h4 {
