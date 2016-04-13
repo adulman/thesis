@@ -6754,6 +6754,95 @@ h4 {
 	padding-bottom: 10px;
 }
 
+
+
+
+/* start home styles */
+
+.instabannerhome h4 {
+	font-size: 25px;
+	line-height: 32px;
+	height: auto;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.hometop h1 {
+	font-size: 45px;
+	line-height: 42px;
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 10px;
+}
+
+.hometop h5 {
+	font-size: 25px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.hometop h3 {
+	font-size: 20px;
+	width: 300px;
+	color: #d8d960;
+	line-height: 24px;
+}
+
+.instabannerhome {
+	width: 100%;
+	height: auto;
+	margin-bottom: 60px;
+	margin-top: 30px;
+}
+
+.homecityall {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.homecityindividual {
+	width: 270px;
+	height: auto;
+	padding-right: 18px;
+	padding-left: 18px;
+	padding-top: 15px;
+	padding-bottom: 28px;
+}
+
+.homecityindividual img {
+	height: 270px;
+	width: 270px;
+}
+
+.homecityindividual p {
+	width: 270px;
+	margin-right: auto;
+	padding-top: 40px;
+	margin-left: auto;
+	line-height: 28px;
+	font-size: 18px;
+}
+
+.homecityindividual h3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 270px;
+	font-size: 30px;
+	margin-top: 15px;
+}
+
+.morecities h2 {
+	padding-bottom: 0px;
+}
+
+.morecitiesarrow {
+	height: 40px;
+}
 }
 
 
