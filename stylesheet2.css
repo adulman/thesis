@@ -2451,6 +2451,17 @@ h2 {
 	width: auto;
 }
 
+.aboutcontent {
+	width: 1000px;
+}
+
+.aboutcontentcallout {
+	width: 1000px;
+}
+
+.aboutcontentdedication {
+	width: 1000px;
+}
 }
 
 
