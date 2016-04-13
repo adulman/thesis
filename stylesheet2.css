@@ -5075,12 +5075,12 @@ h4 {
 }
 
 .hometop h1 {
-	font-size: 70px;
+	font-size: 60px;
 }
 
 .hometop h5 {
-	font-size: 35px;
-	margin-top: 20px;
+	font-size: 30px;
+	margin-top: 0px;
 	margin-bottom: 25px;
 }
 
@@ -5104,7 +5104,7 @@ h4 {
 }
 
 .homecityindividual {
-	width: 220px;
+	width: 230px;
 	height: auto;
 	padding-right: 40px;
 	padding-left: 40px;
@@ -5113,12 +5113,12 @@ h4 {
 }
 
 .homecityindividual img {
-	height: 220px;
-	width: 220px;
+	height: 230px;
+	width: 230px;
 }
 
 .homecityindividual p {
-	width: 220px;
+	width: 230px;
 	margin-right: auto;
 	padding-top: 40px;
 	margin-left: auto;
@@ -5129,7 +5129,7 @@ h4 {
 .homecityindividual h3 {
 	margin-right: auto;
 	margin-left: auto;
-	width: 220px;
+	width: 230px;
 	font-size: 30px;
 	margin-top: 15px;
 }
